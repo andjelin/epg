@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="Proxi">
+<channel id="RTS 1">
+	<display-name>RTS 1</display-name>
+	<icon src="" />
+</channel>
+	<programme start="20231201152501 +0200" stop="20231201160501 +0200" start_timestamp="1701440700" stop_timestamp="1701440700" channel="RTS 1">
+		<title>Ovo je Srbija</title>
+		<desc>Sveobuhvatna slika svakodnevice u Srbiji, iz gradova i najudaljenijih mesta, o budućnosti kojoj stremimo i prošlosti koja nas uči, kroz reportaže i direktna uključenja sa terena. Svakog radnog dana, dve stotine zaposlenih iz 24 dopisništva prati puls Srbije, pružajući informacije o dnevnim događajima, životnim problemima i kulturnim dešavanjima. Vesti iz prve ruke u kriznim situacijama, slike koje nikoga ne ostavljaju ravnodušnim, poziv da se pomogne onima kojima je pomoć najpotrebnija.</desc>
+	</programme>
+	<programme start="20231201160501 +0200" stop="20231201170001 +0200" start_timestamp="1701443100" stop_timestamp="1701443100" channel="RTS 1">
+		<title>Selo gori, a baba se češlja</title>
+		<desc>Radnja serije smeštena je u malo selo između reka, između tri Morave. Serija prati život glavnog junaka, Radašina, koji nam priča svoju priču o porodici, selu, meštanima, o životu uopšte.</desc>
+	</programme>
+	<programme start="20231201170001 +0200" stop="20231201172001 +0200" start_timestamp="1701446400" stop_timestamp="1701446400" channel="RTS 1">
+		<title>Dnevnik RT Vojvodina</title>
+		<desc>Novinari i saradnici Informativnog programa trude se da i danas, kao i pre tridesetak godina, zabeleže najaktuelnije događaje sa prostora Vojvodine i Srbije.</desc>
+	</programme>
+	<programme start="20231201192001 +0200" stop="20231201193001 +0200" start_timestamp="1701454800" stop_timestamp="1701454800" channel="RTS 1">
+		<title>Vreme</title>
+		<desc>Pratite informacije o najnovijim vremenskim uslovima i prognozu za određeno područje grada, države, kontinenta ili celog sveta za narednih nekoliko dana.</desc>
+	</programme>
+	<programme start="20231202023501 +0200" stop="20231202025001 +0200" start_timestamp="1701480900" stop_timestamp="1701480900" channel="RTS 1">
+		<title>Gastronomad</title>
+		<desc>Gastronomadi putuju, traže i pakuju u svoje magične kofere svaku priču i svako jelo i taj put se nikada ne prekida. Pravi gastronomad nije samo čovek, to je i ideja, to je i namirnica koja je prevalila put i donela preko potrebnu promenu za našim stolom. U čast svih priča za stolom i gde god ima dobar zalogaj, krećemo sa Katarinom Petrović Kajom na novo putovanje, jedanaesto po redu. U more pitanja, na brdo slatkiša, preko doline zanimljivosti, vozom krcatim namirnicama i svi ćemo zajedno, kao pravi gastronomadi, ispričati tu divnu priču.</desc>
+	</programme>
+	<programme start="20231202060001 +0200" stop="20231202060501 +0200" start_timestamp="1701493200" stop_timestamp="1701493200" channel="RTS 1">
+		<title>Vesti</title>
+		<desc>Najnovije vesti, analize i izveštaji sa lica mesta iz Srbije, Balkana i sveta. Budite u toku sa političkim, društvenim i poslovnim trendovima.</desc>
+	</programme>
+	<programme start="20231202060501 +0200" stop="20231202080001 +0200" start_timestamp="1701493500" stop_timestamp="1701493500" channel="RTS 1">
+		<title>Jutarnji program</title>
+		<desc>Već 25 godina, Jutarnji program Radio-televizije Srbije je jedna od najgledanijih emisija na svim programima sa nacionalnom frekvencijom. Danas, uz prvu jutarnju emisiju, ustaje u proseku tri miliona televizijskih gledalaca.</desc>
+	</programme>
+	<programme start="20231202080001 +0200" stop="20231202083001 +0200" start_timestamp="1701500400" stop_timestamp="1701500400" channel="RTS 1">
+		<title>Jutarnji dnevnik</title>
+		<desc>Vesti iz zemlje i sveta u okviru jutarnjeg programa RTS produkcije.</desc>
+	</programme>
+	<programme start="20231202083001 +0200" stop="20231202090001 +0200" start_timestamp="1701502200" stop_timestamp="1701502200" channel="RTS 1">
+		<title>Jutarnji program</title>
+		<desc>Već 25 godina, Jutarnji program Radio-televizije Srbije je jedna od najgledanijih emisija na svim programima sa nacionalnom frekvencijom. Danas, uz prvu jutarnju emisiju, ustaje u proseku tri miliona televizijskih gledalaca.</desc>
+	</programme>
+	<programme start="20231202090001 +0200" stop="20231202090501 +0200" start_timestamp="1701504000" stop_timestamp="1701504000" channel="RTS 1">
+		<title>Vesti</title>
+		<desc>Najnovije vesti, analize i izveštaji sa lica mesta iz Srbije, Balkana i sveta. Budite u toku sa političkim, društvenim i poslovnim trendovima.</desc>
+	</programme>
+	<programme start="20231202090501 +0200" stop="20231202110001 +0200" start_timestamp="1701504300" stop_timestamp="1701504300" channel="RTS 1">
+		<title>Šarenica</title>
+		<desc>Šarenica je emisija kolažnog tipa. Sadržaj su zanimljive reportaže snimljene na terenu, kao i dokumentarne priče. Naravno, Šarenica ne bi bila ono što jeste da u svakoj emisije ne ugosti i veliki broj sagovornika. U šarenici gostuju, seljaci, zanimljivi ljudi, akademici...svako ko ima nešto zaniljivo da kaže, prikaže, odigra, otpeva. U emisiji posebno mesto imaju tradicija odevanja, graditeljstva, kulinarstva...</desc>
+	</programme>
+	<programme start="20231202110001 +0200" stop="20231202120001 +0200" start_timestamp="1701511200" stop_timestamp="1701511200" channel="RTS 1">
+		<title>Na večeri kod...</title>
+		<desc>Na Prvom programu RTS-a počinje emitovanje nove zabavne emisije, takmičarskog karaktera, u kojoj će poznate ličnosti iz različitih sfera javnog života (muzičari, glumci, sportisti, modni dizajneri itd) za svoje goste priređivati nezaboravne večernje zabave u svojim domovima.</desc>
+	</programme>
+	<programme start="20231202120001 +0200" stop="20231202120501 +0200" start_timestamp="1701514800" stop_timestamp="1701514800" channel="RTS 1">
+		<title>Vesti</title>
+		<desc>Najnovije vesti, analize i izveštaji sa lica mesta iz Srbije, Balkana i sveta. Budite u toku sa političkim, društvenim i poslovnim trendovima.</desc>
+	</programme>
+	<programme start="20231202120501 +0200" stop="20231202122001 +0200" start_timestamp="1701515100" stop_timestamp="1701515100" channel="RTS 1">
+		<title>NTC kviz</title>
+		<desc>Zašto je zmaju potreban stetoskop u kovčegu sa blagom i kako će reagovati zec kad u televizijskom studiju pronađe strašnog lava, moraće da odgonetnu naši četvrti četvrtfinalisti - ekipa Gusara i ekipa Ise i Bise. Budite sa nama u subotu, 2. decembra u 12.05č na Prvom programu Televizije Srbije.</desc>
+	</programme>
+	<programme start="20231202122001 +0200" stop="20231202130001 +0200" start_timestamp="1701516000" stop_timestamp="1701516000" channel="RTS 1">
+		<title>Rodoslavci</title>
+		<desc>Bogatstvom nevelika, ali, duhom snažna, Srbija se upisala među prve zemlje sveta koje su počele proizvodnju, prenos i korišćenje polifaznih struja po Teslinim principima. Bilo je to 1900. godine i bilo je na Đetinji - u Užicu.</desc>
+	</programme>
+	<programme start="20231202130001 +0200" stop="20231202135001 +0200" start_timestamp="1701518400" stop_timestamp="1701518400" channel="RTS 1">
+		<title>Dnevnik 1</title>
+		<desc>Najgledanija informativna emisija u Srbiji.</desc>
+	</programme>
+	<programme start="20231202135001 +0200" stop="20231202141501 +0200" start_timestamp="1701521400" stop_timestamp="1701521400" channel="RTS 1">
+		<title>Gastronomad</title>
+		<desc>Gastronomadi putuju, traže i pakuju u svoje magične kofere svaku priču i svako jelo i taj put se nikada ne prekida. Pravi gastronomad nije samo čovek, to je i ideja, to je i namirnica koja je prevalila put i donela preko potrebnu promenu za našim stolom. U čast svih priča za stolom i gde god ima dobar zalogaj, krećemo sa Katarinom Petrović Kajom na novo putovanje, jedanaesto po redu. U more pitanja, na brdo slatkiša, preko doline zanimljivosti, vozom krcatim namirnicama i svi ćemo zajedno, kao pravi gastronomadi, ispričati tu divnu priču.</desc>
+	</programme>
+	<programme start="20231202141501 +0200" stop="20231202150001 +0200" start_timestamp="1701522900" stop_timestamp="1701522900" channel="RTS 1">
+		<title>TV lica... Kao sav normalan svet</title>
+		<desc>Kako izgleda saradnja sa bratom Milanom? Da li je stvarno put od Budve do Beograda jednom trajao čitavih 18 dana? Kako se danas seća žurke koju su organizovali glumci Ateljea 212 kada se oženio.</desc>
+	</programme>
+	<programme start="20231202150001 +0200" stop="20231202151501 +0200" start_timestamp="1701525600" stop_timestamp="1701525600" channel="RTS 1">
+		<title>Vesti</title>
+		<desc>Najnovije vesti, analize i izveštaji sa lica mesta iz Srbije, Balkana i sveta. Budite u toku sa političkim, društvenim i poslovnim trendovima.</desc>
+	</programme>
+	<programme start="20231202185501 +0200" stop="20231202193001 +0200" start_timestamp="1701539700" stop_timestamp="1701539700" channel="RTS 1">
+		<title>Slagalica</title>
+		<desc>Najpopularniji i najdugovečniji kviz u Srbiji slavi 30 godina rada! Tim povodom jubilarni ciklus, koji počinje 02. decembra okupiće najbolje od najboljih! Legendarni takmičari iz prethodnih 30 godina odmeriće svoje znanje u dobro poznatim igrama slova, brojki, opšteg znanja, brzine, dosetljivosti i logike. Finale nas očekuje 31. decembra.</desc>
+	</programme>
+	<programme start="20231201130001 +0200" stop="20231201144901 +0200" start_timestamp="1701432000" stop_timestamp="1701432000" channel="RTS 1">
+		<title>Jedan dobar dan</title>
+		<desc>Dnevna emisija Zabavnog programa </desc>
+	</programme>
+	<programme start="20231201144901 +0200" stop="20231201152501 +0200" start_timestamp="1701438540" stop_timestamp="1701438540" channel="RTS 1">
+		<title>Građanin</title>
+		<desc>Radio-televizija Srbije emituje serijal </desc>
+	</programme>
+	<programme start="20231201172001 +0200" stop="20231201174201 +0200" start_timestamp="1701447600" stop_timestamp="1701447600" channel="RTS 1">
+		<title>Šta radite, bre</title>
+		<desc>Informativna emisija kratke forme otkriva pozadinu dnevnih događaja i aktuelnih političkih tema kroz zanimljive izjave aktera na političkoj sceni Srbije. U emisiji podsećamo šta su rekli, šta govore i šta su uradili, bre.</desc>
+	</programme>
+	<programme start="20231201174201 +0200" stop="20231201181501 +0200" start_timestamp="1701448920" stop_timestamp="1701448920" channel="RTS 1">
+		<title>Beogradska hronika</title>
+		<desc>Beogradska hronika uvek na strani građana. Reporteri na licu mesta, aktuelne teme, važni događaji, ekskluzivni gosti. Na vaša pitanja odgovaraju oni koji imaju prave odgovore. Reportaže o običnim ljudima, herojima naše svakodnevice.</desc>
+	</programme>
+	<programme start="20231201181501 +0200" stop="20231201185201 +0200" start_timestamp="1701450900" stop_timestamp="1701450900" channel="RTS 1">
+		<title>Oko</title>
+		<desc>Emisija se bavi aktuelnim društvenim, političkim i ekonomskim temama. Da bi se pomoglo onima koji imaju problem, ili odgovorilo na neka pitanja koja interesuju gledaoce, potrebno je priču sagledati iz više uglova i čuti sve one koji su u temu uključeni. Gosti su ličnosti koje najkompetentnije mogu da govore o postavljenoj temi.</desc>
+	</programme>
+	<programme start="20231201185201 +0200" stop="20231201192001 +0200" start_timestamp="1701453120" stop_timestamp="1701453120" channel="RTS 1">
+		<title>Slagalica</title>
+		<desc>TV slagalica je kviz sa najdužom tradicijom među TV kvizovima na našim prostorima. Traje 16 godina i okuplja sve veći broj gledalaca kojima je, kako sami kažu, postala omiljena serija koju ne propuštaju. O tome svedoče podaci prema kojima je TV slagalica već nekoliko godina među deset najgledanijih emisija na svim TV stanicama u našoj zemlji. Među emisijama istog žanra zauzima jedno od prva tri mesta. Ovako zavidan nivo gledanosti i opstanak našeg domaćeg kviza u oštroj konkurenciji licencnih TV kvizova može da se objasni ocenom gledalaca i takmičara da je TV slagalica kviz koji uz zanimljive igre ima dušu.</desc>
+	</programme>
+	<programme start="20231201193001 +0200" stop="20231201200701 +0200" start_timestamp="1701455400" stop_timestamp="1701455400" channel="RTS 1">
+		<title>Dnevnik 2</title>
+		<desc>Najgledanija informativna emisija u Srbiji.</desc>
+	</programme>
+	<programme start="20231201200701 +0200" stop="20231201210701 +0200" start_timestamp="1701457620" stop_timestamp="1701457620" channel="RTS 1">
+		<title>Selo gori, a baba se češlja</title>
+		<desc>Radnja serije smeštena je u malo selo između reka, između tri Morave. Serija prati život glavnog junaka, Radašina, koji nam priča svoju priču o porodici, selu, meštanima, o životu uopšte.</desc>
+	</programme>
+	<programme start="20231201210701 +0200" stop="20231201221001 +0200" start_timestamp="1701461220" stop_timestamp="1701461220" channel="RTS 1">
+		<title>Moja dedovina</title>
+		<desc>Dve sestre složno obnavljaju ognjište predaka koje niko ne bi imao hrabrosti da počne da sređuje.</desc>
+	</programme>
+	<programme start="20231201221001 +0200" stop="20231201230701 +0200" start_timestamp="1701465000" stop_timestamp="1701465000" channel="RTS 1">
+		<title>Stigni me ako znaš</title>
+		<desc>U dobro poznatom terminu, petkom od 22 časa, na RTS 1 Kristina Radenković dočekuje plavog, žutog, crvenog i zelenog takmičara. Samo jedan ili jedna od njih moći će da izađe iz igre kao pobednik.</desc>
+	</programme>
+	<programme start="20231201230701 +0200" stop="20231201233301 +0200" start_timestamp="1701468420" stop_timestamp="1701468420" channel="RTS 1">
+		<title>Dnevnik 3</title>
+		<desc>Najgledanija informativna emisija u Srbiji.</desc>
+	</programme>
+	<programme start="20231201233301 +0200" stop="20231201234801 +0200" start_timestamp="1701469980" stop_timestamp="1701469980" channel="RTS 1">
+		<title>Kulturni dnevnik</title>
+		<desc>Dopisnici i saradnici RTS-a javljaće se sa mesta najzanimljivijih domaćih i svetskih kulturnih događaja, dočekivati umetnike na aerodromu, razgovarati sa njima pre i posle nastupa. Kulturni dnevnik će se baviti i umetnošću življenja. Iskusan uređivački tim i mlade snage RTS-a vratiće kulturi mesto koje joj pripada.</desc>
+	</programme>
+	<programme start="20231201234801 +0200" stop="20231202004701 +0200" start_timestamp="1701470880" stop_timestamp="1701470880" channel="RTS 1">
+		<title>Dekster</title>
+		<desc>Ljubitelje kriminalistike i misterije veoma će obradovati informacija da priča o neouobičajenom serijskom ubici, stiže na Prvi program RTS-a, radnim danima oko ponoći. Ova drama bazirana je na liku iz serije romana Dekster pisca Džef Linsdeja, a ekranizovao je Džejms Manos Džunior. Radnja serije odvija se u Majamiju i prati Dekstera Morgana, serijskog ubicu koji radi u policiji kao forenzičar za krv. Zbog tragedije koju je doživeo u detinjstvu, oseća strast i potrebu za ubijanjem, koju je njegov otac koji ga je usvojio, policajac Hari Morgan, kanalisao da ubija ljude koji to </desc>
+	</programme>
+	<programme start="20231202004701 +0200" stop="20231202020001 +0200" start_timestamp="1701474420" stop_timestamp="1701474420" channel="RTS 1">
+		<title>Jedan dobar dan</title>
+		<desc>Dnevna emisija Zabavnog programa </desc>
+	</programme>
+	<programme start="20231202020001 +0200" stop="20231202023501 +0200" start_timestamp="1701478800" stop_timestamp="1701478800" channel="RTS 1">
+		<title>Vesti</title>
+		<desc>Najnovije vesti, analize i izveštaji sa lica mesta iz Srbije, Balkana i sveta. Budite u toku sa političkim, društvenim i poslovnim trendovima.</desc>
+	</programme>
+	<programme start="20231202025001 +0200" stop="20231202032301 +0200" start_timestamp="1701481800" stop_timestamp="1701481800" channel="RTS 1">
+		<title>Građanin</title>
+		<desc>Radio-televizija Srbije emituje serijal </desc>
+	</programme>
+	<programme start="20231202032301 +0200" stop="20231202035301 +0200" start_timestamp="1701483780" stop_timestamp="1701483780" channel="RTS 1">
+		<title>Oko</title>
+		<desc>Emisija se bavi aktuelnim društvenim, političkim i ekonomskim temama. Da bi se pomoglo onima koji imaju problem, ili odgovorilo na neka pitanja koja interesuju gledaoce, potrebno je priču sagledati iz više uglova i čuti sve one koji su u temu uključeni. Gosti su ličnosti koje najkompetentnije mogu da govore o postavljenoj temi.</desc>
+	</programme>
+	<programme start="20231202035301 +0200" stop="20231202045101 +0200" start_timestamp="1701485580" stop_timestamp="1701485580" channel="RTS 1">
+		<title>Moja dedovina</title>
+		<desc>Pred vama će od zapuštenih i uparloženih seoskih domaćinstava nastajati dedovine sa novim sjajem. Pred kamerama će </desc>
+	</programme>
+	<programme start="20231202045101 +0200" stop="20231202054801 +0200" start_timestamp="1701489060" stop_timestamp="1701489060" channel="RTS 1">
+		<title>Gore dole</title>
+		<desc>Televizijska serija </desc>
+	</programme>
+	<programme start="20231202054801 +0200" stop="20231202060001 +0200" start_timestamp="1701492480" stop_timestamp="1701492480" channel="RTS 1">
+		<title>Verski kalendar</title>
+		<desc>Desetominutna emisija </desc>
+	</programme>
+	<programme start="20231202151501 +0200" stop="20231202161501 +0200" start_timestamp="1701526500" stop_timestamp="1701526500" channel="RTS 1">
+		<title>Stigni me ako znaš</title>
+		<desc></desc>
+	</programme>
+	<programme start="20231202161501 +0200" stop="20231202171001 +0200" start_timestamp="1701530100" stop_timestamp="1701530100" channel="RTS 1">
+		<title>Poziv</title>
+		<desc>Anica Reljić, bivša policijska inspektorka koja sada radi u kol centru, dobija poziv od Sonje Tošić, bogate samohrane majke, koja želi da sazna identitet osobe koja joj preti telefonom. Istražujuci preteće pozive, shvata da su oni povezani sa kriminalnom grupom iz njenog prošlog života. Anica pokušava da na to upozori Sonju, ali ona misterozno nestaje, što natera Anicu i Tijanu, Sonjinu buntovnu kćerku, da krenu u potragu za njom. Uskoro otkrivaju da Sonja može biti ključ u otkrivanju istine koja stoji iza ekološkog skandala koji potresa zemlju: misteriozno trovanje trojice dečaka.</desc>
+	</programme>
+	<programme start="20231202171001 +0200" stop="20231202172501 +0200" start_timestamp="1701533400" stop_timestamp="1701533400" channel="RTS 1">
+		<title>Vesti</title>
+		<desc>Najnovije vesti, analize i izveštaji sa lica mesta iz Srbije, Balkana i sveta. Budite u toku sa političkim, društvenim i poslovnim trendovima.</desc>
+	</programme>
+	<programme start="20231202172501 +0200" stop="20231202180001 +0200" start_timestamp="1701534300" stop_timestamp="1701534300" channel="RTS 1">
+		<title>Kvadratura kruga</title>
+		<desc>Krug života u Lici sve je uži, sve manji i sve tanji. U mnogim ličkim selima u kojima su pre rata živeli Srbi život se ugasio.</desc>
+	</programme>
+	<programme start="20231202180001 +0200" stop="20231202185501 +0200" start_timestamp="1701536400" stop_timestamp="1701536400" channel="RTS 1">
+		<title>Fudbal - Žreb za EP 2024</title>
+		<desc>Posle 24 godine naša zemlja će imati fudbalski tim na šampionatu Evrope. Prvi put pod imenom Srbija. Iako je očekivano da se do kontinentalnog šampionata stigne lakše, strepelo se gotovo do poslednjeg minuta kvalifikacija. Na kraju je ostvaren cilj, ali su ukupni rezultati uticali na to da se predstojeći žreb grupa za šampionat dočekuje sa zebnjom.</desc>
+	</programme>
+	<programme start="20231202193001 +0200" stop="20231202200501 +0200" start_timestamp="1701541800" stop_timestamp="1701541800" channel="RTS 1">
+		<title>Dnevnik 2</title>
+		<desc>Najgledanija informativna emisija u Srbiji.</desc>
+	</programme>
+	<programme start="20231202200501 +0200" stop="20231202210001 +0200" start_timestamp="1701543900" stop_timestamp="1701543900" channel="RTS 1">
+		<title>Poziv</title>
+		<desc>U petoj epizodi gledaćete: Anica i Tijana otkrivaju sa kim se Sonja dopisivala, ali Anica dobija šokantne vesti koje joj skreću pažnju sa Sonjinog slučaja.</desc>
+	</programme>
+	<programme start="20231202210001 +0200" stop="20231202220501 +0200" start_timestamp="1701547200" stop_timestamp="1701547200" channel="RTS 1">
+		<title>Hajde da se volimo</title>
+		<desc></desc>
+	</programme>
+	<programme start="20231202220501 +0200" stop="20231203002001 +0200" start_timestamp="1701551100" stop_timestamp="1701551100" channel="RTS 1">
+		<title>Zvezdane staze: Prema tami</title>
+		<desc>Posada </desc>
+	</programme>
+	<programme start="20231203002001 +0200" stop="20231203002501 +0200" start_timestamp="1701559200" stop_timestamp="1701559200" channel="RTS 1">
+		<title>Vesti</title>
+		<desc>Najnovije vesti, analize i izveštaji sa lica mesta iz Srbije, Balkana i sveta. Budite u toku sa političkim, društvenim i poslovnim trendovima.</desc>
+	</programme>
+	<programme start="20231203002501 +0200" stop="20231203020501 +0200" start_timestamp="1701559500" stop_timestamp="1701559500" channel="RTS 1">
+		<title>Uljez</title>
+		<desc>U budućnosti, vanzemaljci šalju androide kao bombaše - samoubice na Zemlju. Vladin specijalista za naoružanje optužen je da je jedan od takvih i mora da dokaže svoju nevinost. Rat protiv vanzemaljaca otegao se duže od deset godina. Rad Spensera Olama, specijaliste za naoružanje, ima potencijal da spase planetu Zemlju. Međutim, on iznenada biva optužen da je poslat od strane vanzemaljaca i prinuđen je da beži, u strahu za sebe i da neće stići da spase čovečanstvo.</desc>
+	</programme>
+	<programme start="20231203020501 +0200" stop="20231203030301 +0200" start_timestamp="1701565500" stop_timestamp="1701565500" channel="RTS 1">
+		<title>Fudbal - Žreb za EP 2024</title>
+		<desc>Posle 24 godine naša zemlja će imati fudbalski tim na šampionatu Evrope. Prvi put pod imenom Srbija. Iako je očekivano da se do kontinentalnog šampionata stigne lakše, strepelo se gotovo do poslednjeg minuta kvalifikacija. Na kraju je ostvaren cilj, ali su ukupni rezultati uticali na to da se predstojeći žreb grupa za šampionat dočekuje sa zebnjom. Srbija će biti u četvrtom </desc>
+	</programme>
+	<programme start="20231203030301 +0200" stop="20231203050301 +0200" start_timestamp="1701568980" stop_timestamp="1701568980" channel="RTS 1">
+		<title>Hajde da se volimo</title>
+		<desc></desc>
+	</programme>
+	<programme start="20231203050301 +0200" stop="20231203054901 +0200" start_timestamp="1701576180" stop_timestamp="1701576180" channel="RTS 1">
+		<title>TV lica... Kao sav normalan svet</title>
+		<desc></desc>
+	</programme>
+	<programme start="20231203054901 +0200" stop="20231203060001 +0200" start_timestamp="1701578940" stop_timestamp="1701578940" channel="RTS 1">
+		<title>Verski kalendar</title>
+		<desc>Desetominutna emisija </desc>
+	</programme>
+	<programme start="20231203060001 +0200" stop="20231203060501 +0200" start_timestamp="1701579600" stop_timestamp="1701579600" channel="RTS 1">
+		<title>Vesti</title>
+		<desc>Najnovije vesti, analize i izveštaji sa lica mesta iz Srbije, Balkana i sveta. Budite u toku sa političkim, društvenim i poslovnim trendovima.</desc>
+	</programme>
+	<programme start="20231203060501 +0200" stop="20231203080001 +0200" start_timestamp="1701579900" stop_timestamp="1701579900" channel="RTS 1">
+		<title>Jutarnji program</title>
+		<desc>Već 25 godina, Jutarnji program Radio-televizije Srbije je jedna od najgledanijih emisija na svim programima sa nacionalnom frekvencijom. Danas, uz prvu jutarnju emisiju, ustaje u proseku tri miliona televizijskih gledalaca.</desc>
+	</programme>
+	<programme start="20231203080001 +0200" stop="20231203083001 +0200" start_timestamp="1701586800" stop_timestamp="1701586800" channel="RTS 1">
+		<title>Jutarnji dnevnik</title>
+		<desc>Vesti iz zemlje i sveta u okviru jutarnjeg programa RTS produkcije.</desc>
+	</programme>
+	<programme start="20231203083001 +0200" stop="20231203090001 +0200" start_timestamp="1701588600" stop_timestamp="1701588600" channel="RTS 1">
+		<title>Jutarnji program</title>
+		<desc>Već 25 godina, Jutarnji program Radio-televizije Srbije je jedna od najgledanijih emisija na svim programima sa nacionalnom frekvencijom. Danas, uz prvu jutarnju emisiju, ustaje u proseku tri miliona televizijskih gledalaca.</desc>
+	</programme>
+	<programme start="20231203090001 +0200" stop="20231203090501 +0200" start_timestamp="1701590400" stop_timestamp="1701590400" channel="RTS 1">
+		<title>Vesti</title>
+		<desc>Najnovije vesti, analize i izveštaji sa lica mesta iz Srbije, Balkana i sveta. Budite u toku sa političkim, društvenim i poslovnim trendovima.</desc>
+	</programme>
+	<programme start="20231203090501 +0200" stop="20231203110001 +0200" start_timestamp="1701590700" stop_timestamp="1701590700" channel="RTS 1">
+		<title>Šarenica</title>
+		<desc>Šarenica je emisija kolažnog tipa. Sadržaj su zanimljive reportaže snimljene na terenu, kao i dokumentarne priče. Naravno, Šarenica ne bi bila ono što jeste da u svakoj emisije ne ugosti i veliki broj sagovornika. U šarenici gostuju, seljaci, zanimljivi ljudi, akademici...svako ko ima nešto zaniljivo da kaže, prikaže, odigra, otpeva. U emisiji posebno mesto imaju tradicija odevanja, graditeljstva, kulinarstva...</desc>
+	</programme>
+	<programme start="20231203110001 +0200" stop="20231203120001 +0200" start_timestamp="1701597600" stop_timestamp="1701597600" channel="RTS 1">
+		<title>Znanje imanje</title>
+		<desc>Sela mogu biti centar različitih kreativnih sadržaja koji proizvođaču daju sigurnost i održivost.</desc>
+	</programme>
+	<programme start="20231203120001 +0200" stop="20231203122001 +0200" start_timestamp="1701601200" stop_timestamp="1701601200" channel="RTS 1">
+		<title>Dnevnik 1</title>
+		<desc>Najgledanija informativna emisija u Srbiji.</desc>
+	</programme>
+	<programme start="20231203122001 +0200" stop="20231203132001 +0200" start_timestamp="1701602400" stop_timestamp="1701602400" channel="RTS 1">
+		<title>Potera</title>
+		<desc>Tragači Milica Jokanović, Žarko Stevanović i Milorad Milinković vraćaju se na vaše ekrane. U jednom od najdugovečnijih domaćih nedeljnih kvizova, ponovo će upotrebiti svoje znanje, brzinu i hladnokrvnost ne bi li stigli neke od najuspešnijih, najmlađih i najsimpatičnijih takmičara do sada. Srećom po takmičare, na njihovom timskom putu do nagrade i ove godine Tragače će pokušati da zbuni omiljeno TV lice, Jovan Memedović.</desc>
+	</programme>
+	<programme start="20231203132001 +0200" stop="20231203141001 +0200" start_timestamp="1701606000" stop_timestamp="1701606000" channel="RTS 1">
+		<title>SAT</title>
+		<desc>Svi koji traže aktuelnu i, pre svega, korisnu informaciju iz oblasti saobraćaja, automobilizma i turizma već punih 17 godina okupljeni su oko emisije SAT, emisije i za vozače i za pešake. Iako prepoznatljiva po svojim jedinstvenim predstavljanjima najnovijih automobila po sistemu </desc>
+	</programme>
+	<programme start="20231203141001 +0200" stop="20231203151001 +0200" start_timestamp="1701609000" stop_timestamp="1701609000" channel="RTS 1">
+		<title>RTS ordinacija</title>
+		<desc>Zdrava misija u RTS ordinaciji se nastavlja, a zanimljivi gosti donose korisne savete i poučne priče. Na početku će o svojoj borbi za potomstvo otvoreno govoriti poznata manekenka, u apoteci ćemo razrešiti neodoumice o tome kako se bira preparat protiv kašlja i na kraju će biti reči o neuropatiji, tačnije osećaju trnjenja, žarenja, probadanja i sličnim simptomima.</desc>
+	</programme>
+	<programme start="20231203151001 +0200" stop="20231203152001 +0200" start_timestamp="1701612600" stop_timestamp="1701612600" channel="RTS 1">
+		<title>No information</title>
+		<desc></desc>
+	</programme>
+	<programme start="20231203152001 +0200" stop="20231203162001 +0200" start_timestamp="1701613200" stop_timestamp="1701613200" channel="RTS 1">
+		<title>Kuhinja moga kraja</title>
+		<desc>Slavica Jović, rođena u Kosovskoj Mitrovici, sreću je pronašla u selu Vinik, nadomak Niša, gde će i dočekati svoje prijateljice.</desc>
+	</programme>
+	<programme start="20231203162001 +0200" stop="20231203170001 +0200" start_timestamp="1701616800" stop_timestamp="1701616800" channel="RTS 1">
+		<title>No information</title>
+		<desc></desc>
+	</programme>
+	<programme start="20231203170001 +0200" stop="20231203180001 +0200" start_timestamp="1701619200" stop_timestamp="1701619200" channel="RTS 1">
+		<title>No information</title>
+		<desc></desc>
+	</programme>
+	<programme start="20231203180001 +0200" stop="20231203190001 +0200" start_timestamp="1701622800" stop_timestamp="1701622800" channel="RTS 1">
+		<title>No information</title>
+		<desc></desc>
+	</programme>
+	<programme start="20231203190001 +0200" stop="20231203192001 +0200" start_timestamp="1701626400" stop_timestamp="1701626400" channel="RTS 1">
+		<title>Slagalica</title>
+		<desc>TV slagalica je kviz sa najdužom tradicijom među TV kvizovima na našim prostorima. Traje 16 godina i okuplja sve veći broj gledalaca kojima je, kako sami kažu, postala omiljena serija koju ne propuštaju. O tome svedoče podaci prema kojima je TV slagalica već nekoliko godina među deset najgledanijih emisija na svim TV stanicama u našoj zemlji. Među emisijama istog žanra zauzima jedno od prva tri mesta. Ovako zavidan nivo gledanosti i opstanak našeg domaćeg kviza u oštroj konkurenciji licencnih TV kvizova može da se objasni ocenom gledalaca i takmičara da je TV slagalica kviz koji uz zanimljive igre ima dušu.</desc>
+	</programme>
+	<programme start="20231203192001 +0200" stop="20231203200001 +0200" start_timestamp="1701627600" stop_timestamp="1701627600" channel="RTS 1">
+		<title>No information</title>
+		<desc></desc>
+	</programme>
+	<programme start="20231203200001 +0200" stop="20231203210001 +0200" start_timestamp="1701630000" stop_timestamp="1701630000" channel="RTS 1">
+		<title>No information</title>
+		<desc></desc>
+	</programme>
+	<programme start="20231203210001 +0200" stop="20231203220001 +0200" start_timestamp="1701633600" stop_timestamp="1701633600" channel="RTS 1">
+		<title>No information</title>
+		<desc></desc>
+	</programme>
+</tv>
