@@ -4,303 +4,303 @@
 	<display-name>RTS 1</display-name>
 	<icon src="" />
 </channel>
-	<programme start="20231201152501 +0200" stop="20231201160501 +0200" start_timestamp="1701440700" stop_timestamp="1701440700" channel="RTS 1">
+	<programme start="20231201152501 +0100" stop="20231201160501 +0100" start_timestamp="1701440700" stop_timestamp="1701440700" channel="RTS 1">
 		<title>Ovo je Srbija</title>
 		<desc>Sveobuhvatna slika svakodnevice u Srbiji, iz gradova i najudaljenijih mesta, o budućnosti kojoj stremimo i prošlosti koja nas uči, kroz reportaže i direktna uključenja sa terena. Svakog radnog dana, dve stotine zaposlenih iz 24 dopisništva prati puls Srbije, pružajući informacije o dnevnim događajima, životnim problemima i kulturnim dešavanjima. Vesti iz prve ruke u kriznim situacijama, slike koje nikoga ne ostavljaju ravnodušnim, poziv da se pomogne onima kojima je pomoć najpotrebnija.</desc>
 	</programme>
-	<programme start="20231201160501 +0200" stop="20231201170001 +0200" start_timestamp="1701443100" stop_timestamp="1701443100" channel="RTS 1">
+	<programme start="20231201160501 +0100" stop="20231201170001 +0100" start_timestamp="1701443100" stop_timestamp="1701443100" channel="RTS 1">
 		<title>Selo gori, a baba se češlja</title>
 		<desc>Radnja serije smeštena je u malo selo između reka, između tri Morave. Serija prati život glavnog junaka, Radašina, koji nam priča svoju priču o porodici, selu, meštanima, o životu uopšte.</desc>
 	</programme>
-	<programme start="20231201170001 +0200" stop="20231201172001 +0200" start_timestamp="1701446400" stop_timestamp="1701446400" channel="RTS 1">
+	<programme start="20231201170001 +0100" stop="20231201172001 +0100" start_timestamp="1701446400" stop_timestamp="1701446400" channel="RTS 1">
 		<title>Dnevnik RT Vojvodina</title>
 		<desc>Novinari i saradnici Informativnog programa trude se da i danas, kao i pre tridesetak godina, zabeleže najaktuelnije događaje sa prostora Vojvodine i Srbije.</desc>
 	</programme>
-	<programme start="20231201192001 +0200" stop="20231201193001 +0200" start_timestamp="1701454800" stop_timestamp="1701454800" channel="RTS 1">
+	<programme start="20231201192001 +0100" stop="20231201193001 +0100" start_timestamp="1701454800" stop_timestamp="1701454800" channel="RTS 1">
 		<title>Vreme</title>
 		<desc>Pratite informacije o najnovijim vremenskim uslovima i prognozu za određeno područje grada, države, kontinenta ili celog sveta za narednih nekoliko dana.</desc>
 	</programme>
-	<programme start="20231202023501 +0200" stop="20231202025001 +0200" start_timestamp="1701480900" stop_timestamp="1701480900" channel="RTS 1">
+	<programme start="20231202023501 +0100" stop="20231202025001 +0100" start_timestamp="1701480900" stop_timestamp="1701480900" channel="RTS 1">
 		<title>Gastronomad</title>
 		<desc>Gastronomadi putuju, traže i pakuju u svoje magične kofere svaku priču i svako jelo i taj put se nikada ne prekida. Pravi gastronomad nije samo čovek, to je i ideja, to je i namirnica koja je prevalila put i donela preko potrebnu promenu za našim stolom. U čast svih priča za stolom i gde god ima dobar zalogaj, krećemo sa Katarinom Petrović Kajom na novo putovanje, jedanaesto po redu. U more pitanja, na brdo slatkiša, preko doline zanimljivosti, vozom krcatim namirnicama i svi ćemo zajedno, kao pravi gastronomadi, ispričati tu divnu priču.</desc>
 	</programme>
-	<programme start="20231202060001 +0200" stop="20231202060501 +0200" start_timestamp="1701493200" stop_timestamp="1701493200" channel="RTS 1">
+	<programme start="20231202060001 +0100" stop="20231202060501 +0100" start_timestamp="1701493200" stop_timestamp="1701493200" channel="RTS 1">
 		<title>Vesti</title>
 		<desc>Najnovije vesti, analize i izveštaji sa lica mesta iz Srbije, Balkana i sveta. Budite u toku sa političkim, društvenim i poslovnim trendovima.</desc>
 	</programme>
-	<programme start="20231202060501 +0200" stop="20231202080001 +0200" start_timestamp="1701493500" stop_timestamp="1701493500" channel="RTS 1">
+	<programme start="20231202060501 +0100" stop="20231202080001 +0100" start_timestamp="1701493500" stop_timestamp="1701493500" channel="RTS 1">
 		<title>Jutarnji program</title>
 		<desc>Već 25 godina, Jutarnji program Radio-televizije Srbije je jedna od najgledanijih emisija na svim programima sa nacionalnom frekvencijom. Danas, uz prvu jutarnju emisiju, ustaje u proseku tri miliona televizijskih gledalaca.</desc>
 	</programme>
-	<programme start="20231202080001 +0200" stop="20231202083001 +0200" start_timestamp="1701500400" stop_timestamp="1701500400" channel="RTS 1">
+	<programme start="20231202080001 +0100" stop="20231202083001 +0100" start_timestamp="1701500400" stop_timestamp="1701500400" channel="RTS 1">
 		<title>Jutarnji dnevnik</title>
 		<desc>Vesti iz zemlje i sveta u okviru jutarnjeg programa RTS produkcije.</desc>
 	</programme>
-	<programme start="20231202083001 +0200" stop="20231202090001 +0200" start_timestamp="1701502200" stop_timestamp="1701502200" channel="RTS 1">
+	<programme start="20231202083001 +0100" stop="20231202090001 +0100" start_timestamp="1701502200" stop_timestamp="1701502200" channel="RTS 1">
 		<title>Jutarnji program</title>
 		<desc>Već 25 godina, Jutarnji program Radio-televizije Srbije je jedna od najgledanijih emisija na svim programima sa nacionalnom frekvencijom. Danas, uz prvu jutarnju emisiju, ustaje u proseku tri miliona televizijskih gledalaca.</desc>
 	</programme>
-	<programme start="20231202090001 +0200" stop="20231202090501 +0200" start_timestamp="1701504000" stop_timestamp="1701504000" channel="RTS 1">
+	<programme start="20231202090001 +0100" stop="20231202090501 +0100" start_timestamp="1701504000" stop_timestamp="1701504000" channel="RTS 1">
 		<title>Vesti</title>
 		<desc>Najnovije vesti, analize i izveštaji sa lica mesta iz Srbije, Balkana i sveta. Budite u toku sa političkim, društvenim i poslovnim trendovima.</desc>
 	</programme>
-	<programme start="20231202090501 +0200" stop="20231202110001 +0200" start_timestamp="1701504300" stop_timestamp="1701504300" channel="RTS 1">
+	<programme start="20231202090501 +0100" stop="20231202110001 +0100" start_timestamp="1701504300" stop_timestamp="1701504300" channel="RTS 1">
 		<title>Šarenica</title>
 		<desc>Šarenica je emisija kolažnog tipa. Sadržaj su zanimljive reportaže snimljene na terenu, kao i dokumentarne priče. Naravno, Šarenica ne bi bila ono što jeste da u svakoj emisije ne ugosti i veliki broj sagovornika. U šarenici gostuju, seljaci, zanimljivi ljudi, akademici...svako ko ima nešto zaniljivo da kaže, prikaže, odigra, otpeva. U emisiji posebno mesto imaju tradicija odevanja, graditeljstva, kulinarstva...</desc>
 	</programme>
-	<programme start="20231202110001 +0200" stop="20231202120001 +0200" start_timestamp="1701511200" stop_timestamp="1701511200" channel="RTS 1">
+	<programme start="20231202110001 +0100" stop="20231202120001 +0100" start_timestamp="1701511200" stop_timestamp="1701511200" channel="RTS 1">
 		<title>Na večeri kod...</title>
 		<desc>Na Prvom programu RTS-a počinje emitovanje nove zabavne emisije, takmičarskog karaktera, u kojoj će poznate ličnosti iz različitih sfera javnog života (muzičari, glumci, sportisti, modni dizajneri itd) za svoje goste priređivati nezaboravne večernje zabave u svojim domovima.</desc>
 	</programme>
-	<programme start="20231202120001 +0200" stop="20231202120501 +0200" start_timestamp="1701514800" stop_timestamp="1701514800" channel="RTS 1">
+	<programme start="20231202120001 +0100" stop="20231202120501 +0100" start_timestamp="1701514800" stop_timestamp="1701514800" channel="RTS 1">
 		<title>Vesti</title>
 		<desc>Najnovije vesti, analize i izveštaji sa lica mesta iz Srbije, Balkana i sveta. Budite u toku sa političkim, društvenim i poslovnim trendovima.</desc>
 	</programme>
-	<programme start="20231202120501 +0200" stop="20231202122001 +0200" start_timestamp="1701515100" stop_timestamp="1701515100" channel="RTS 1">
+	<programme start="20231202120501 +0100" stop="20231202122001 +0100" start_timestamp="1701515100" stop_timestamp="1701515100" channel="RTS 1">
 		<title>NTC kviz</title>
 		<desc>Zašto je zmaju potreban stetoskop u kovčegu sa blagom i kako će reagovati zec kad u televizijskom studiju pronađe strašnog lava, moraće da odgonetnu naši četvrti četvrtfinalisti - ekipa Gusara i ekipa Ise i Bise. Budite sa nama u subotu, 2. decembra u 12.05č na Prvom programu Televizije Srbije.</desc>
 	</programme>
-	<programme start="20231202122001 +0200" stop="20231202130001 +0200" start_timestamp="1701516000" stop_timestamp="1701516000" channel="RTS 1">
+	<programme start="20231202122001 +0100" stop="20231202130001 +0100" start_timestamp="1701516000" stop_timestamp="1701516000" channel="RTS 1">
 		<title>Rodoslavci</title>
 		<desc>Bogatstvom nevelika, ali, duhom snažna, Srbija se upisala među prve zemlje sveta koje su počele proizvodnju, prenos i korišćenje polifaznih struja po Teslinim principima. Bilo je to 1900. godine i bilo je na Đetinji - u Užicu.</desc>
 	</programme>
-	<programme start="20231202130001 +0200" stop="20231202135001 +0200" start_timestamp="1701518400" stop_timestamp="1701518400" channel="RTS 1">
+	<programme start="20231202130001 +0100" stop="20231202135001 +0100" start_timestamp="1701518400" stop_timestamp="1701518400" channel="RTS 1">
 		<title>Dnevnik 1</title>
 		<desc>Najgledanija informativna emisija u Srbiji.</desc>
 	</programme>
-	<programme start="20231202135001 +0200" stop="20231202141501 +0200" start_timestamp="1701521400" stop_timestamp="1701521400" channel="RTS 1">
+	<programme start="20231202135001 +0100" stop="20231202141501 +0100" start_timestamp="1701521400" stop_timestamp="1701521400" channel="RTS 1">
 		<title>Gastronomad</title>
 		<desc>Gastronomadi putuju, traže i pakuju u svoje magične kofere svaku priču i svako jelo i taj put se nikada ne prekida. Pravi gastronomad nije samo čovek, to je i ideja, to je i namirnica koja je prevalila put i donela preko potrebnu promenu za našim stolom. U čast svih priča za stolom i gde god ima dobar zalogaj, krećemo sa Katarinom Petrović Kajom na novo putovanje, jedanaesto po redu. U more pitanja, na brdo slatkiša, preko doline zanimljivosti, vozom krcatim namirnicama i svi ćemo zajedno, kao pravi gastronomadi, ispričati tu divnu priču.</desc>
 	</programme>
-	<programme start="20231202141501 +0200" stop="20231202150001 +0200" start_timestamp="1701522900" stop_timestamp="1701522900" channel="RTS 1">
+	<programme start="20231202141501 +0100" stop="20231202150001 +0100" start_timestamp="1701522900" stop_timestamp="1701522900" channel="RTS 1">
 		<title>TV lica... Kao sav normalan svet</title>
 		<desc>Kako izgleda saradnja sa bratom Milanom? Da li je stvarno put od Budve do Beograda jednom trajao čitavih 18 dana? Kako se danas seća žurke koju su organizovali glumci Ateljea 212 kada se oženio.</desc>
 	</programme>
-	<programme start="20231202150001 +0200" stop="20231202151501 +0200" start_timestamp="1701525600" stop_timestamp="1701525600" channel="RTS 1">
+	<programme start="20231202150001 +0100" stop="20231202151501 +0100" start_timestamp="1701525600" stop_timestamp="1701525600" channel="RTS 1">
 		<title>Vesti</title>
 		<desc>Najnovije vesti, analize i izveštaji sa lica mesta iz Srbije, Balkana i sveta. Budite u toku sa političkim, društvenim i poslovnim trendovima.</desc>
 	</programme>
-	<programme start="20231202185501 +0200" stop="20231202193001 +0200" start_timestamp="1701539700" stop_timestamp="1701539700" channel="RTS 1">
+	<programme start="20231202185501 +0100" stop="20231202193001 +0100" start_timestamp="1701539700" stop_timestamp="1701539700" channel="RTS 1">
 		<title>Slagalica</title>
 		<desc>Najpopularniji i najdugovečniji kviz u Srbiji slavi 30 godina rada! Tim povodom jubilarni ciklus, koji počinje 02. decembra okupiće najbolje od najboljih! Legendarni takmičari iz prethodnih 30 godina odmeriće svoje znanje u dobro poznatim igrama slova, brojki, opšteg znanja, brzine, dosetljivosti i logike. Finale nas očekuje 31. decembra.</desc>
 	</programme>
-	<programme start="20231201130001 +0200" stop="20231201144901 +0200" start_timestamp="1701432000" stop_timestamp="1701432000" channel="RTS 1">
+	<programme start="20231201130001 +0100" stop="20231201144901 +0100" start_timestamp="1701432000" stop_timestamp="1701432000" channel="RTS 1">
 		<title>Jedan dobar dan</title>
 		<desc>Dnevna emisija Zabavnog programa </desc>
 	</programme>
-	<programme start="20231201144901 +0200" stop="20231201152501 +0200" start_timestamp="1701438540" stop_timestamp="1701438540" channel="RTS 1">
+	<programme start="20231201144901 +0100" stop="20231201152501 +0100" start_timestamp="1701438540" stop_timestamp="1701438540" channel="RTS 1">
 		<title>Građanin</title>
 		<desc>Radio-televizija Srbije emituje serijal </desc>
 	</programme>
-	<programme start="20231201172001 +0200" stop="20231201174201 +0200" start_timestamp="1701447600" stop_timestamp="1701447600" channel="RTS 1">
+	<programme start="20231201172001 +0100" stop="20231201174201 +0100" start_timestamp="1701447600" stop_timestamp="1701447600" channel="RTS 1">
 		<title>Šta radite, bre</title>
 		<desc>Informativna emisija kratke forme otkriva pozadinu dnevnih događaja i aktuelnih političkih tema kroz zanimljive izjave aktera na političkoj sceni Srbije. U emisiji podsećamo šta su rekli, šta govore i šta su uradili, bre.</desc>
 	</programme>
-	<programme start="20231201174201 +0200" stop="20231201181501 +0200" start_timestamp="1701448920" stop_timestamp="1701448920" channel="RTS 1">
+	<programme start="20231201174201 +0100" stop="20231201181501 +0100" start_timestamp="1701448920" stop_timestamp="1701448920" channel="RTS 1">
 		<title>Beogradska hronika</title>
 		<desc>Beogradska hronika uvek na strani građana. Reporteri na licu mesta, aktuelne teme, važni događaji, ekskluzivni gosti. Na vaša pitanja odgovaraju oni koji imaju prave odgovore. Reportaže o običnim ljudima, herojima naše svakodnevice.</desc>
 	</programme>
-	<programme start="20231201181501 +0200" stop="20231201185201 +0200" start_timestamp="1701450900" stop_timestamp="1701450900" channel="RTS 1">
+	<programme start="20231201181501 +0100" stop="20231201185201 +0100" start_timestamp="1701450900" stop_timestamp="1701450900" channel="RTS 1">
 		<title>Oko</title>
 		<desc>Emisija se bavi aktuelnim društvenim, političkim i ekonomskim temama. Da bi se pomoglo onima koji imaju problem, ili odgovorilo na neka pitanja koja interesuju gledaoce, potrebno je priču sagledati iz više uglova i čuti sve one koji su u temu uključeni. Gosti su ličnosti koje najkompetentnije mogu da govore o postavljenoj temi.</desc>
 	</programme>
-	<programme start="20231201185201 +0200" stop="20231201192001 +0200" start_timestamp="1701453120" stop_timestamp="1701453120" channel="RTS 1">
+	<programme start="20231201185201 +0100" stop="20231201192001 +0100" start_timestamp="1701453120" stop_timestamp="1701453120" channel="RTS 1">
 		<title>Slagalica</title>
 		<desc>TV slagalica je kviz sa najdužom tradicijom među TV kvizovima na našim prostorima. Traje 16 godina i okuplja sve veći broj gledalaca kojima je, kako sami kažu, postala omiljena serija koju ne propuštaju. O tome svedoče podaci prema kojima je TV slagalica već nekoliko godina među deset najgledanijih emisija na svim TV stanicama u našoj zemlji. Među emisijama istog žanra zauzima jedno od prva tri mesta. Ovako zavidan nivo gledanosti i opstanak našeg domaćeg kviza u oštroj konkurenciji licencnih TV kvizova može da se objasni ocenom gledalaca i takmičara da je TV slagalica kviz koji uz zanimljive igre ima dušu.</desc>
 	</programme>
-	<programme start="20231201193001 +0200" stop="20231201200701 +0200" start_timestamp="1701455400" stop_timestamp="1701455400" channel="RTS 1">
+	<programme start="20231201193001 +0100" stop="20231201200701 +0100" start_timestamp="1701455400" stop_timestamp="1701455400" channel="RTS 1">
 		<title>Dnevnik 2</title>
 		<desc>Najgledanija informativna emisija u Srbiji.</desc>
 	</programme>
-	<programme start="20231201200701 +0200" stop="20231201210701 +0200" start_timestamp="1701457620" stop_timestamp="1701457620" channel="RTS 1">
+	<programme start="20231201200701 +0100" stop="20231201210701 +0100" start_timestamp="1701457620" stop_timestamp="1701457620" channel="RTS 1">
 		<title>Selo gori, a baba se češlja</title>
 		<desc>Radnja serije smeštena je u malo selo između reka, između tri Morave. Serija prati život glavnog junaka, Radašina, koji nam priča svoju priču o porodici, selu, meštanima, o životu uopšte.</desc>
 	</programme>
-	<programme start="20231201210701 +0200" stop="20231201221001 +0200" start_timestamp="1701461220" stop_timestamp="1701461220" channel="RTS 1">
+	<programme start="20231201210701 +0100" stop="20231201221001 +0100" start_timestamp="1701461220" stop_timestamp="1701461220" channel="RTS 1">
 		<title>Moja dedovina</title>
 		<desc>Dve sestre složno obnavljaju ognjište predaka koje niko ne bi imao hrabrosti da počne da sređuje.</desc>
 	</programme>
-	<programme start="20231201221001 +0200" stop="20231201230701 +0200" start_timestamp="1701465000" stop_timestamp="1701465000" channel="RTS 1">
+	<programme start="20231201221001 +0100" stop="20231201230701 +0100" start_timestamp="1701465000" stop_timestamp="1701465000" channel="RTS 1">
 		<title>Stigni me ako znaš</title>
 		<desc>U dobro poznatom terminu, petkom od 22 časa, na RTS 1 Kristina Radenković dočekuje plavog, žutog, crvenog i zelenog takmičara. Samo jedan ili jedna od njih moći će da izađe iz igre kao pobednik.</desc>
 	</programme>
-	<programme start="20231201230701 +0200" stop="20231201233301 +0200" start_timestamp="1701468420" stop_timestamp="1701468420" channel="RTS 1">
+	<programme start="20231201230701 +0100" stop="20231201233301 +0100" start_timestamp="1701468420" stop_timestamp="1701468420" channel="RTS 1">
 		<title>Dnevnik 3</title>
 		<desc>Najgledanija informativna emisija u Srbiji.</desc>
 	</programme>
-	<programme start="20231201233301 +0200" stop="20231201234801 +0200" start_timestamp="1701469980" stop_timestamp="1701469980" channel="RTS 1">
+	<programme start="20231201233301 +0100" stop="20231201234801 +0100" start_timestamp="1701469980" stop_timestamp="1701469980" channel="RTS 1">
 		<title>Kulturni dnevnik</title>
 		<desc>Dopisnici i saradnici RTS-a javljaće se sa mesta najzanimljivijih domaćih i svetskih kulturnih događaja, dočekivati umetnike na aerodromu, razgovarati sa njima pre i posle nastupa. Kulturni dnevnik će se baviti i umetnošću življenja. Iskusan uređivački tim i mlade snage RTS-a vratiće kulturi mesto koje joj pripada.</desc>
 	</programme>
-	<programme start="20231201234801 +0200" stop="20231202004701 +0200" start_timestamp="1701470880" stop_timestamp="1701470880" channel="RTS 1">
+	<programme start="20231201234801 +0100" stop="20231202004701 +0100" start_timestamp="1701470880" stop_timestamp="1701470880" channel="RTS 1">
 		<title>Dekster</title>
 		<desc>Ljubitelje kriminalistike i misterije veoma će obradovati informacija da priča o neouobičajenom serijskom ubici, stiže na Prvi program RTS-a, radnim danima oko ponoći. Ova drama bazirana je na liku iz serije romana Dekster pisca Džef Linsdeja, a ekranizovao je Džejms Manos Džunior. Radnja serije odvija se u Majamiju i prati Dekstera Morgana, serijskog ubicu koji radi u policiji kao forenzičar za krv. Zbog tragedije koju je doživeo u detinjstvu, oseća strast i potrebu za ubijanjem, koju je njegov otac koji ga je usvojio, policajac Hari Morgan, kanalisao da ubija ljude koji to </desc>
 	</programme>
-	<programme start="20231202004701 +0200" stop="20231202020001 +0200" start_timestamp="1701474420" stop_timestamp="1701474420" channel="RTS 1">
+	<programme start="20231202004701 +0100" stop="20231202020001 +0100" start_timestamp="1701474420" stop_timestamp="1701474420" channel="RTS 1">
 		<title>Jedan dobar dan</title>
 		<desc>Dnevna emisija Zabavnog programa </desc>
 	</programme>
-	<programme start="20231202020001 +0200" stop="20231202023501 +0200" start_timestamp="1701478800" stop_timestamp="1701478800" channel="RTS 1">
+	<programme start="20231202020001 +0100" stop="20231202023501 +0100" start_timestamp="1701478800" stop_timestamp="1701478800" channel="RTS 1">
 		<title>Vesti</title>
 		<desc>Najnovije vesti, analize i izveštaji sa lica mesta iz Srbije, Balkana i sveta. Budite u toku sa političkim, društvenim i poslovnim trendovima.</desc>
 	</programme>
-	<programme start="20231202025001 +0200" stop="20231202032301 +0200" start_timestamp="1701481800" stop_timestamp="1701481800" channel="RTS 1">
+	<programme start="20231202025001 +0100" stop="20231202032301 +0100" start_timestamp="1701481800" stop_timestamp="1701481800" channel="RTS 1">
 		<title>Građanin</title>
 		<desc>Radio-televizija Srbije emituje serijal </desc>
 	</programme>
-	<programme start="20231202032301 +0200" stop="20231202035301 +0200" start_timestamp="1701483780" stop_timestamp="1701483780" channel="RTS 1">
+	<programme start="20231202032301 +0100" stop="20231202035301 +0100" start_timestamp="1701483780" stop_timestamp="1701483780" channel="RTS 1">
 		<title>Oko</title>
 		<desc>Emisija se bavi aktuelnim društvenim, političkim i ekonomskim temama. Da bi se pomoglo onima koji imaju problem, ili odgovorilo na neka pitanja koja interesuju gledaoce, potrebno je priču sagledati iz više uglova i čuti sve one koji su u temu uključeni. Gosti su ličnosti koje najkompetentnije mogu da govore o postavljenoj temi.</desc>
 	</programme>
-	<programme start="20231202035301 +0200" stop="20231202045101 +0200" start_timestamp="1701485580" stop_timestamp="1701485580" channel="RTS 1">
+	<programme start="20231202035301 +0100" stop="20231202045101 +0100" start_timestamp="1701485580" stop_timestamp="1701485580" channel="RTS 1">
 		<title>Moja dedovina</title>
 		<desc>Pred vama će od zapuštenih i uparloženih seoskih domaćinstava nastajati dedovine sa novim sjajem. Pred kamerama će </desc>
 	</programme>
-	<programme start="20231202045101 +0200" stop="20231202054801 +0200" start_timestamp="1701489060" stop_timestamp="1701489060" channel="RTS 1">
+	<programme start="20231202045101 +0100" stop="20231202054801 +0100" start_timestamp="1701489060" stop_timestamp="1701489060" channel="RTS 1">
 		<title>Gore dole</title>
 		<desc>Televizijska serija </desc>
 	</programme>
-	<programme start="20231202054801 +0200" stop="20231202060001 +0200" start_timestamp="1701492480" stop_timestamp="1701492480" channel="RTS 1">
+	<programme start="20231202054801 +0100" stop="20231202060001 +0100" start_timestamp="1701492480" stop_timestamp="1701492480" channel="RTS 1">
 		<title>Verski kalendar</title>
 		<desc>Desetominutna emisija </desc>
 	</programme>
-	<programme start="20231202151501 +0200" stop="20231202161501 +0200" start_timestamp="1701526500" stop_timestamp="1701526500" channel="RTS 1">
+	<programme start="20231202151501 +0100" stop="20231202161501 +0100" start_timestamp="1701526500" stop_timestamp="1701526500" channel="RTS 1">
 		<title>Stigni me ako znaš</title>
 		<desc></desc>
 	</programme>
-	<programme start="20231202161501 +0200" stop="20231202171001 +0200" start_timestamp="1701530100" stop_timestamp="1701530100" channel="RTS 1">
+	<programme start="20231202161501 +0100" stop="20231202171001 +0100" start_timestamp="1701530100" stop_timestamp="1701530100" channel="RTS 1">
 		<title>Poziv</title>
 		<desc>Anica Reljić, bivša policijska inspektorka koja sada radi u kol centru, dobija poziv od Sonje Tošić, bogate samohrane majke, koja želi da sazna identitet osobe koja joj preti telefonom. Istražujuci preteće pozive, shvata da su oni povezani sa kriminalnom grupom iz njenog prošlog života. Anica pokušava da na to upozori Sonju, ali ona misterozno nestaje, što natera Anicu i Tijanu, Sonjinu buntovnu kćerku, da krenu u potragu za njom. Uskoro otkrivaju da Sonja može biti ključ u otkrivanju istine koja stoji iza ekološkog skandala koji potresa zemlju: misteriozno trovanje trojice dečaka.</desc>
 	</programme>
-	<programme start="20231202171001 +0200" stop="20231202172501 +0200" start_timestamp="1701533400" stop_timestamp="1701533400" channel="RTS 1">
+	<programme start="20231202171001 +0100" stop="20231202172501 +0100" start_timestamp="1701533400" stop_timestamp="1701533400" channel="RTS 1">
 		<title>Vesti</title>
 		<desc>Najnovije vesti, analize i izveštaji sa lica mesta iz Srbije, Balkana i sveta. Budite u toku sa političkim, društvenim i poslovnim trendovima.</desc>
 	</programme>
-	<programme start="20231202172501 +0200" stop="20231202180001 +0200" start_timestamp="1701534300" stop_timestamp="1701534300" channel="RTS 1">
+	<programme start="20231202172501 +0100" stop="20231202180001 +0100" start_timestamp="1701534300" stop_timestamp="1701534300" channel="RTS 1">
 		<title>Kvadratura kruga</title>
 		<desc>Krug života u Lici sve je uži, sve manji i sve tanji. U mnogim ličkim selima u kojima su pre rata živeli Srbi život se ugasio.</desc>
 	</programme>
-	<programme start="20231202180001 +0200" stop="20231202185501 +0200" start_timestamp="1701536400" stop_timestamp="1701536400" channel="RTS 1">
+	<programme start="20231202180001 +0100" stop="20231202185501 +0100" start_timestamp="1701536400" stop_timestamp="1701536400" channel="RTS 1">
 		<title>Fudbal - Žreb za EP 2024</title>
 		<desc>Posle 24 godine naša zemlja će imati fudbalski tim na šampionatu Evrope. Prvi put pod imenom Srbija. Iako je očekivano da se do kontinentalnog šampionata stigne lakše, strepelo se gotovo do poslednjeg minuta kvalifikacija. Na kraju je ostvaren cilj, ali su ukupni rezultati uticali na to da se predstojeći žreb grupa za šampionat dočekuje sa zebnjom.</desc>
 	</programme>
-	<programme start="20231202193001 +0200" stop="20231202200501 +0200" start_timestamp="1701541800" stop_timestamp="1701541800" channel="RTS 1">
+	<programme start="20231202193001 +0100" stop="20231202200501 +0100" start_timestamp="1701541800" stop_timestamp="1701541800" channel="RTS 1">
 		<title>Dnevnik 2</title>
 		<desc>Najgledanija informativna emisija u Srbiji.</desc>
 	</programme>
-	<programme start="20231202200501 +0200" stop="20231202210001 +0200" start_timestamp="1701543900" stop_timestamp="1701543900" channel="RTS 1">
+	<programme start="20231202200501 +0100" stop="20231202210001 +0100" start_timestamp="1701543900" stop_timestamp="1701543900" channel="RTS 1">
 		<title>Poziv</title>
 		<desc>U petoj epizodi gledaćete: Anica i Tijana otkrivaju sa kim se Sonja dopisivala, ali Anica dobija šokantne vesti koje joj skreću pažnju sa Sonjinog slučaja.</desc>
 	</programme>
-	<programme start="20231202210001 +0200" stop="20231202220501 +0200" start_timestamp="1701547200" stop_timestamp="1701547200" channel="RTS 1">
+	<programme start="20231202210001 +0100" stop="20231202220501 +0100" start_timestamp="1701547200" stop_timestamp="1701547200" channel="RTS 1">
 		<title>Hajde da se volimo</title>
 		<desc></desc>
 	</programme>
-	<programme start="20231202220501 +0200" stop="20231203002001 +0200" start_timestamp="1701551100" stop_timestamp="1701551100" channel="RTS 1">
+	<programme start="20231202220501 +0100" stop="20231203002001 +0100" start_timestamp="1701551100" stop_timestamp="1701551100" channel="RTS 1">
 		<title>Zvezdane staze: Prema tami</title>
 		<desc>Posada </desc>
 	</programme>
-	<programme start="20231203002001 +0200" stop="20231203002501 +0200" start_timestamp="1701559200" stop_timestamp="1701559200" channel="RTS 1">
+	<programme start="20231203002001 +0100" stop="20231203002501 +0100" start_timestamp="1701559200" stop_timestamp="1701559200" channel="RTS 1">
 		<title>Vesti</title>
 		<desc>Najnovije vesti, analize i izveštaji sa lica mesta iz Srbije, Balkana i sveta. Budite u toku sa političkim, društvenim i poslovnim trendovima.</desc>
 	</programme>
-	<programme start="20231203002501 +0200" stop="20231203020501 +0200" start_timestamp="1701559500" stop_timestamp="1701559500" channel="RTS 1">
+	<programme start="20231203002501 +0100" stop="20231203020501 +0100" start_timestamp="1701559500" stop_timestamp="1701559500" channel="RTS 1">
 		<title>Uljez</title>
 		<desc>U budućnosti, vanzemaljci šalju androide kao bombaše - samoubice na Zemlju. Vladin specijalista za naoružanje optužen je da je jedan od takvih i mora da dokaže svoju nevinost. Rat protiv vanzemaljaca otegao se duže od deset godina. Rad Spensera Olama, specijaliste za naoružanje, ima potencijal da spase planetu Zemlju. Međutim, on iznenada biva optužen da je poslat od strane vanzemaljaca i prinuđen je da beži, u strahu za sebe i da neće stići da spase čovečanstvo.</desc>
 	</programme>
-	<programme start="20231203020501 +0200" stop="20231203030301 +0200" start_timestamp="1701565500" stop_timestamp="1701565500" channel="RTS 1">
+	<programme start="20231203020501 +0100" stop="20231203030301 +0100" start_timestamp="1701565500" stop_timestamp="1701565500" channel="RTS 1">
 		<title>Fudbal - Žreb za EP 2024</title>
 		<desc>Posle 24 godine naša zemlja će imati fudbalski tim na šampionatu Evrope. Prvi put pod imenom Srbija. Iako je očekivano da se do kontinentalnog šampionata stigne lakše, strepelo se gotovo do poslednjeg minuta kvalifikacija. Na kraju je ostvaren cilj, ali su ukupni rezultati uticali na to da se predstojeći žreb grupa za šampionat dočekuje sa zebnjom. Srbija će biti u četvrtom </desc>
 	</programme>
-	<programme start="20231203030301 +0200" stop="20231203050301 +0200" start_timestamp="1701568980" stop_timestamp="1701568980" channel="RTS 1">
+	<programme start="20231203030301 +0100" stop="20231203050301 +0100" start_timestamp="1701568980" stop_timestamp="1701568980" channel="RTS 1">
 		<title>Hajde da se volimo</title>
 		<desc></desc>
 	</programme>
-	<programme start="20231203050301 +0200" stop="20231203054901 +0200" start_timestamp="1701576180" stop_timestamp="1701576180" channel="RTS 1">
+	<programme start="20231203050301 +0100" stop="20231203054901 +0100" start_timestamp="1701576180" stop_timestamp="1701576180" channel="RTS 1">
 		<title>TV lica... Kao sav normalan svet</title>
 		<desc></desc>
 	</programme>
-	<programme start="20231203054901 +0200" stop="20231203060001 +0200" start_timestamp="1701578940" stop_timestamp="1701578940" channel="RTS 1">
+	<programme start="20231203054901 +0100" stop="20231203060001 +0100" start_timestamp="1701578940" stop_timestamp="1701578940" channel="RTS 1">
 		<title>Verski kalendar</title>
 		<desc>Desetominutna emisija </desc>
 	</programme>
-	<programme start="20231203060001 +0200" stop="20231203060501 +0200" start_timestamp="1701579600" stop_timestamp="1701579600" channel="RTS 1">
+	<programme start="20231203060001 +0100" stop="20231203060501 +0100" start_timestamp="1701579600" stop_timestamp="1701579600" channel="RTS 1">
 		<title>Vesti</title>
 		<desc>Najnovije vesti, analize i izveštaji sa lica mesta iz Srbije, Balkana i sveta. Budite u toku sa političkim, društvenim i poslovnim trendovima.</desc>
 	</programme>
-	<programme start="20231203060501 +0200" stop="20231203080001 +0200" start_timestamp="1701579900" stop_timestamp="1701579900" channel="RTS 1">
+	<programme start="20231203060501 +0100" stop="20231203080001 +0100" start_timestamp="1701579900" stop_timestamp="1701579900" channel="RTS 1">
 		<title>Jutarnji program</title>
 		<desc>Već 25 godina, Jutarnji program Radio-televizije Srbije je jedna od najgledanijih emisija na svim programima sa nacionalnom frekvencijom. Danas, uz prvu jutarnju emisiju, ustaje u proseku tri miliona televizijskih gledalaca.</desc>
 	</programme>
-	<programme start="20231203080001 +0200" stop="20231203083001 +0200" start_timestamp="1701586800" stop_timestamp="1701586800" channel="RTS 1">
+	<programme start="20231203080001 +0100" stop="20231203083001 +0100" start_timestamp="1701586800" stop_timestamp="1701586800" channel="RTS 1">
 		<title>Jutarnji dnevnik</title>
 		<desc>Vesti iz zemlje i sveta u okviru jutarnjeg programa RTS produkcije.</desc>
 	</programme>
-	<programme start="20231203083001 +0200" stop="20231203090001 +0200" start_timestamp="1701588600" stop_timestamp="1701588600" channel="RTS 1">
+	<programme start="20231203083001 +0100" stop="20231203090001 +0100" start_timestamp="1701588600" stop_timestamp="1701588600" channel="RTS 1">
 		<title>Jutarnji program</title>
 		<desc>Već 25 godina, Jutarnji program Radio-televizije Srbije je jedna od najgledanijih emisija na svim programima sa nacionalnom frekvencijom. Danas, uz prvu jutarnju emisiju, ustaje u proseku tri miliona televizijskih gledalaca.</desc>
 	</programme>
-	<programme start="20231203090001 +0200" stop="20231203090501 +0200" start_timestamp="1701590400" stop_timestamp="1701590400" channel="RTS 1">
+	<programme start="20231203090001 +0100" stop="20231203090501 +0100" start_timestamp="1701590400" stop_timestamp="1701590400" channel="RTS 1">
 		<title>Vesti</title>
 		<desc>Najnovije vesti, analize i izveštaji sa lica mesta iz Srbije, Balkana i sveta. Budite u toku sa političkim, društvenim i poslovnim trendovima.</desc>
 	</programme>
-	<programme start="20231203090501 +0200" stop="20231203110001 +0200" start_timestamp="1701590700" stop_timestamp="1701590700" channel="RTS 1">
+	<programme start="20231203090501 +0100" stop="20231203110001 +0100" start_timestamp="1701590700" stop_timestamp="1701590700" channel="RTS 1">
 		<title>Šarenica</title>
 		<desc>Šarenica je emisija kolažnog tipa. Sadržaj su zanimljive reportaže snimljene na terenu, kao i dokumentarne priče. Naravno, Šarenica ne bi bila ono što jeste da u svakoj emisije ne ugosti i veliki broj sagovornika. U šarenici gostuju, seljaci, zanimljivi ljudi, akademici...svako ko ima nešto zaniljivo da kaže, prikaže, odigra, otpeva. U emisiji posebno mesto imaju tradicija odevanja, graditeljstva, kulinarstva...</desc>
 	</programme>
-	<programme start="20231203110001 +0200" stop="20231203120001 +0200" start_timestamp="1701597600" stop_timestamp="1701597600" channel="RTS 1">
+	<programme start="20231203110001 +0100" stop="20231203120001 +0100" start_timestamp="1701597600" stop_timestamp="1701597600" channel="RTS 1">
 		<title>Znanje imanje</title>
 		<desc>Sela mogu biti centar različitih kreativnih sadržaja koji proizvođaču daju sigurnost i održivost.</desc>
 	</programme>
-	<programme start="20231203120001 +0200" stop="20231203122001 +0200" start_timestamp="1701601200" stop_timestamp="1701601200" channel="RTS 1">
+	<programme start="20231203120001 +0100" stop="20231203122001 +0100" start_timestamp="1701601200" stop_timestamp="1701601200" channel="RTS 1">
 		<title>Dnevnik 1</title>
 		<desc>Najgledanija informativna emisija u Srbiji.</desc>
 	</programme>
-	<programme start="20231203122001 +0200" stop="20231203132001 +0200" start_timestamp="1701602400" stop_timestamp="1701602400" channel="RTS 1">
+	<programme start="20231203122001 +0100" stop="20231203132001 +0100" start_timestamp="1701602400" stop_timestamp="1701602400" channel="RTS 1">
 		<title>Potera</title>
 		<desc>Tragači Milica Jokanović, Žarko Stevanović i Milorad Milinković vraćaju se na vaše ekrane. U jednom od najdugovečnijih domaćih nedeljnih kvizova, ponovo će upotrebiti svoje znanje, brzinu i hladnokrvnost ne bi li stigli neke od najuspešnijih, najmlađih i najsimpatičnijih takmičara do sada. Srećom po takmičare, na njihovom timskom putu do nagrade i ove godine Tragače će pokušati da zbuni omiljeno TV lice, Jovan Memedović.</desc>
 	</programme>
-	<programme start="20231203132001 +0200" stop="20231203141001 +0200" start_timestamp="1701606000" stop_timestamp="1701606000" channel="RTS 1">
+	<programme start="20231203132001 +0100" stop="20231203141001 +0100" start_timestamp="1701606000" stop_timestamp="1701606000" channel="RTS 1">
 		<title>SAT</title>
 		<desc>Svi koji traže aktuelnu i, pre svega, korisnu informaciju iz oblasti saobraćaja, automobilizma i turizma već punih 17 godina okupljeni su oko emisije SAT, emisije i za vozače i za pešake. Iako prepoznatljiva po svojim jedinstvenim predstavljanjima najnovijih automobila po sistemu </desc>
 	</programme>
-	<programme start="20231203141001 +0200" stop="20231203151001 +0200" start_timestamp="1701609000" stop_timestamp="1701609000" channel="RTS 1">
+	<programme start="20231203141001 +0100" stop="20231203151001 +0100" start_timestamp="1701609000" stop_timestamp="1701609000" channel="RTS 1">
 		<title>RTS ordinacija</title>
 		<desc>Zdrava misija u RTS ordinaciji se nastavlja, a zanimljivi gosti donose korisne savete i poučne priče. Na početku će o svojoj borbi za potomstvo otvoreno govoriti poznata manekenka, u apoteci ćemo razrešiti neodoumice o tome kako se bira preparat protiv kašlja i na kraju će biti reči o neuropatiji, tačnije osećaju trnjenja, žarenja, probadanja i sličnim simptomima.</desc>
 	</programme>
-	<programme start="20231203151001 +0200" stop="20231203152001 +0200" start_timestamp="1701612600" stop_timestamp="1701612600" channel="RTS 1">
+	<programme start="20231203151001 +0100" stop="20231203152001 +0100" start_timestamp="1701612600" stop_timestamp="1701612600" channel="RTS 1">
 		<title>No information</title>
 		<desc></desc>
 	</programme>
-	<programme start="20231203152001 +0200" stop="20231203162001 +0200" start_timestamp="1701613200" stop_timestamp="1701613200" channel="RTS 1">
+	<programme start="20231203152001 +0100" stop="20231203162001 +0100" start_timestamp="1701613200" stop_timestamp="1701613200" channel="RTS 1">
 		<title>Kuhinja moga kraja</title>
 		<desc>Slavica Jović, rođena u Kosovskoj Mitrovici, sreću je pronašla u selu Vinik, nadomak Niša, gde će i dočekati svoje prijateljice.</desc>
 	</programme>
-	<programme start="20231203162001 +0200" stop="20231203170001 +0200" start_timestamp="1701616800" stop_timestamp="1701616800" channel="RTS 1">
+	<programme start="20231203162001 +0100" stop="20231203170001 +0100" start_timestamp="1701616800" stop_timestamp="1701616800" channel="RTS 1">
 		<title>No information</title>
 		<desc></desc>
 	</programme>
-	<programme start="20231203170001 +0200" stop="20231203180001 +0200" start_timestamp="1701619200" stop_timestamp="1701619200" channel="RTS 1">
+	<programme start="20231203170001 +0100" stop="20231203180001 +0100" start_timestamp="1701619200" stop_timestamp="1701619200" channel="RTS 1">
 		<title>No information</title>
 		<desc></desc>
 	</programme>
-	<programme start="20231203180001 +0200" stop="20231203190001 +0200" start_timestamp="1701622800" stop_timestamp="1701622800" channel="RTS 1">
+	<programme start="20231203180001 +0100" stop="20231203190001 +0100" start_timestamp="1701622800" stop_timestamp="1701622800" channel="RTS 1">
 		<title>No information</title>
 		<desc></desc>
 	</programme>
-	<programme start="20231203190001 +0200" stop="20231203192001 +0200" start_timestamp="1701626400" stop_timestamp="1701626400" channel="RTS 1">
+	<programme start="20231203190001 +0100" stop="20231203192001 +0100" start_timestamp="1701626400" stop_timestamp="1701626400" channel="RTS 1">
 		<title>Slagalica</title>
 		<desc>TV slagalica je kviz sa najdužom tradicijom među TV kvizovima na našim prostorima. Traje 16 godina i okuplja sve veći broj gledalaca kojima je, kako sami kažu, postala omiljena serija koju ne propuštaju. O tome svedoče podaci prema kojima je TV slagalica već nekoliko godina među deset najgledanijih emisija na svim TV stanicama u našoj zemlji. Među emisijama istog žanra zauzima jedno od prva tri mesta. Ovako zavidan nivo gledanosti i opstanak našeg domaćeg kviza u oštroj konkurenciji licencnih TV kvizova može da se objasni ocenom gledalaca i takmičara da je TV slagalica kviz koji uz zanimljive igre ima dušu.</desc>
 	</programme>
-	<programme start="20231203192001 +0200" stop="20231203200001 +0200" start_timestamp="1701627600" stop_timestamp="1701627600" channel="RTS 1">
+	<programme start="20231203192001 +0100" stop="20231203200001 +0100" start_timestamp="1701627600" stop_timestamp="1701627600" channel="RTS 1">
 		<title>No information</title>
 		<desc></desc>
 	</programme>
-	<programme start="20231203200001 +0200" stop="20231203210001 +0200" start_timestamp="1701630000" stop_timestamp="1701630000" channel="RTS 1">
+	<programme start="20231203200001 +0100" stop="20231203210001 +0100" start_timestamp="1701630000" stop_timestamp="1701630000" channel="RTS 1">
 		<title>No information</title>
 		<desc></desc>
 	</programme>
-	<programme start="20231203210001 +0200" stop="20231203220001 +0200" start_timestamp="1701633600" stop_timestamp="1701633600" channel="RTS 1">
+	<programme start="20231203210001 +0100" stop="20231203220001 +0100" start_timestamp="1701633600" stop_timestamp="1701633600" channel="RTS 1">
 		<title>No information</title>
 		<desc></desc>
 	</programme>
@@ -308,91 +308,91 @@
 	<display-name>N1</display-name>
 	<icon src="" />
 </channel>
-	<programme start="20231201120001 +0200" stop="20231201140001 +0200" start_timestamp="1701428400" stop_timestamp="1701428400" channel="N1">
+	<programme start="20231201120001 +0100" stop="20231201140001 +0100" start_timestamp="1701428400" stop_timestamp="1701428400" channel="N1">
 		<title>Studio N1 live</title>
 		<desc>U kriznim vremenima proverene vesti još su važnije. U kriznim vremenima verujete novinarima koji se trude da u središte stave vaše probleme. U kriznim vremenima prava pitanja ne mogu da čekaju. Zato...</desc>
 	</programme>
-	<programme start="20231201140001 +0200" stop="20231201143001 +0200" start_timestamp="1701435600" stop_timestamp="1701435600" channel="N1">
+	<programme start="20231201140001 +0100" stop="20231201143001 +0100" start_timestamp="1701435600" stop_timestamp="1701435600" channel="N1">
 		<title>N1 Info</title>
 		<desc>Iz sata u sat budite uz N1. Informisaćemo vas sa lica mesta, uvek prvi, sa aktuelnim vestima. Gledajte i pratite šta se dešava kod nas, u regionu i svetu. Uživo uvek uz N1.</desc>
 	</programme>
-	<programme start="20231201143001 +0200" stop="20231201144501 +0200" start_timestamp="1701437400" stop_timestamp="1701437400" channel="N1">
+	<programme start="20231201143001 +0100" stop="20231201144501 +0100" start_timestamp="1701437400" stop_timestamp="1701437400" channel="N1">
 		<title>Horizonti</title>
 		<desc>Zanimljivosti iz sveta politike, biznisa, sporta, kulture, nauke i zabave. Pozadine događaja i fenomena. Priče koje proširuju vidike i približavaju ličnosti, događaje i stvarnost sveta u kome živimo.</desc>
 	</programme>
-	<programme start="20231201144501 +0200" stop="20231201150001 +0200" start_timestamp="1701438300" stop_timestamp="1701438300" channel="N1">
+	<programme start="20231201144501 +0100" stop="20231201150001 +0100" start_timestamp="1701438300" stop_timestamp="1701438300" channel="N1">
 		<title>N1 Produkcija</title>
 		<desc>BIT TV, Dobro u ljudima, Zelene grane, Kursna lista, Video dana, vremenska prognoza.</desc>
 	</programme>
-	<programme start="20231201150001 +0200" stop="20231201151501 +0200" start_timestamp="1701439200" stop_timestamp="1701439200" channel="N1">
+	<programme start="20231201150001 +0100" stop="20231201151501 +0100" start_timestamp="1701439200" stop_timestamp="1701439200" channel="N1">
 		<title>N1 Info</title>
 		<desc>Iz sata u sat budite uz N1. Informisaćemo vas sa lica mesta, uvek prvi, sa aktuelnim vestima. Gledajte i pratite šta se dešava kod nas, u regionu i svetu. Uživo uvek uz N1.</desc>
 	</programme>
-	<programme start="20231201151501 +0200" stop="20231201160001 +0200" start_timestamp="1701440100" stop_timestamp="1701440100" channel="N1">
+	<programme start="20231201151501 +0100" stop="20231201160001 +0100" start_timestamp="1701440100" stop_timestamp="1701440100" channel="N1">
 		<title>Novi dan</title>
 		<desc>Uživo iz studija Beograda, Zagreba i Sarajeva, sa aktuelnim gostima, pričama, temeljnim analizama i sa pravim informacijama. Pratite sve događaje o kojima će informisati naši reporteri sa lica mesta.</desc>
 	</programme>
-	<programme start="20231201160001 +0200" stop="20231201161501 +0200" start_timestamp="1701442800" stop_timestamp="1701442800" channel="N1">
+	<programme start="20231201160001 +0100" stop="20231201161501 +0100" start_timestamp="1701442800" stop_timestamp="1701442800" channel="N1">
 		<title>N1 Info</title>
 		<desc>Iz sata u sat budite uz N1. Informisaćemo vas sa lica mesta, uvek prvi, sa aktuelnim vestima. Gledajte i pratite šta se dešava kod nas, u regionu i svetu. Uživo uvek uz N1.</desc>
 	</programme>
-	<programme start="20231201161501 +0200" stop="20231201163001 +0200" start_timestamp="1701443700" stop_timestamp="1701443700" channel="N1">
+	<programme start="20231201161501 +0100" stop="20231201163001 +0100" start_timestamp="1701443700" stop_timestamp="1701443700" channel="N1">
 		<title>Sport Klub Info</title>
 		<desc>Aktuelne sportske vesti iz zemlje, regiona i sveta svaki dan na N1.</desc>
 	</programme>
-	<programme start="20231201163001 +0200" stop="20231201180501 +0200" start_timestamp="1701444600" stop_timestamp="1701444600" channel="N1">
+	<programme start="20231201163001 +0100" stop="20231201180501 +0100" start_timestamp="1701444600" stop_timestamp="1701444600" channel="N1">
 		<title>Dan uživo</title>
 		<desc>Teme dana u razgovoru sa relevantnim i aktuelnim gostima.</desc>
 	</programme>
-	<programme start="20231201180501 +0200" stop="20231201183001 +0200" start_timestamp="1701450300" stop_timestamp="1701450300" channel="N1">
+	<programme start="20231201180501 +0100" stop="20231201183001 +0100" start_timestamp="1701450300" stop_timestamp="1701450300" channel="N1">
 		<title>Scena</title>
 		<desc>Scena svakodnevno prati i osluškuje puls tri metropole regiona i donosi pregled zbivanja iz Sarajeva, Zagreba i Beograda. Gledaocima donosimo zanimljivosti iz sveta zabave, kulture, i umetnosti.</desc>
 	</programme>
-	<programme start="20231201183001 +0200" stop="20231201185001 +0200" start_timestamp="1701451800" stop_timestamp="1701451800" channel="N1">
+	<programme start="20231201183001 +0100" stop="20231201185001 +0100" start_timestamp="1701451800" stop_timestamp="1701451800" channel="N1">
 		<title>Horizonti</title>
 		<desc>Zanimljivosti iz sveta politike, biznisa, sporta, kulture, nauke i zabave. Pozadine događaja i fenomena. Priče koje proširuju vidike i približavaju ličnosti, događaje i stvarnost sveta u kome živimo.</desc>
 	</programme>
-	<programme start="20231201185001 +0200" stop="20231201190001 +0200" start_timestamp="1701453000" stop_timestamp="1701453000" channel="N1">
+	<programme start="20231201185001 +0100" stop="20231201190001 +0100" start_timestamp="1701453000" stop_timestamp="1701453000" channel="N1">
 		<title>Vremenska prognoza</title>
 		<desc>Vremenska prognoza.</desc>
 	</programme>
-	<programme start="20231201190001 +0200" stop="20231201193501 +0200" start_timestamp="1701453600" stop_timestamp="1701453600" channel="N1">
+	<programme start="20231201190001 +0100" stop="20231201193501 +0100" start_timestamp="1701453600" stop_timestamp="1701453600" channel="N1">
 		<title>Dnevnik 19</title>
 		<desc>Gledajte Dnevnik u 19 sa Majom Žeželj, našu centralnu informativnu emisiju sa aktuelnim vestima iz zemlje, regiona i sveta. Budite prvi, najbolje informisani, uz dnevnik N1.</desc>
 	</programme>
-	<programme start="20231201193501 +0200" stop="20231201194501 +0200" start_timestamp="1701455700" stop_timestamp="1701455700" channel="N1">
+	<programme start="20231201193501 +0100" stop="20231201194501 +0100" start_timestamp="1701455700" stop_timestamp="1701455700" channel="N1">
 		<title>Sport Klub Info</title>
 		<desc>Aktuelne sportske vesti iz zemlje, regiona i sveta svaki dan na N1.</desc>
 	</programme>
-	<programme start="20231201194501 +0200" stop="20231201200001 +0200" start_timestamp="1701456300" stop_timestamp="1701456300" channel="N1">
+	<programme start="20231201194501 +0100" stop="20231201200001 +0100" start_timestamp="1701456300" stop_timestamp="1701456300" channel="N1">
 		<title>Horizonti</title>
 		<desc>Zanimljivosti iz sveta politike, biznisa, sporta, kulture, nauke i zabave. Pozadine događaja i fenomena. Priče koje proširuju vidike i približavaju ličnosti, događaje i stvarnost sveta u kome živimo.</desc>
 	</programme>
-	<programme start="20231201200001 +0200" stop="20231201210001 +0200" start_timestamp="1701457200" stop_timestamp="1701457200" channel="N1">
+	<programme start="20231201200001 +0100" stop="20231201210001 +0100" start_timestamp="1701457200" stop_timestamp="1701457200" channel="N1">
 		<title>Crvena linija</title>
 		<desc>Politički magazin koji sučeljava stavove.</desc>
 	</programme>
-	<programme start="20231201210001 +0200" stop="20231201220001 +0200" start_timestamp="1701460800" stop_timestamp="1701460800" channel="N1">
+	<programme start="20231201210001 +0100" stop="20231201220001 +0100" start_timestamp="1701460800" stop_timestamp="1701460800" channel="N1">
 		<title>N1 Disinfo</title>
 		<desc>U četvrtoj epizodi N1 Disinfo - veštačka inteligencija promenila je način na koji pristupamo informacijama i distribuišemo ih. Generativni modeli veštačke inteligencije, od tekstualnih do slikovnih,...</desc>
 	</programme>
-	<programme start="20231201220001 +0200" stop="20231201223001 +0200" start_timestamp="1701464400" stop_timestamp="1701464400" channel="N1">
+	<programme start="20231201220001 +0100" stop="20231201223001 +0100" start_timestamp="1701464400" stop_timestamp="1701464400" channel="N1">
 		<title>Dnevnik 22</title>
 		<desc>Gledajte Dnevnik u 22, našu centralnu informativnu emisiju sa aktuelnim vestima iz zemlje, regiona i sveta. Budite prvi, najbolje informisani, uz Dnevnik N1.</desc>
 	</programme>
-	<programme start="20231201223001 +0200" stop="20231201224501 +0200" start_timestamp="1701466200" stop_timestamp="1701466200" channel="N1">
+	<programme start="20231201223001 +0100" stop="20231201224501 +0100" start_timestamp="1701466200" stop_timestamp="1701466200" channel="N1">
 		<title>Scena</title>
 		<desc>Scena svakodnevno prati i osluškuje puls tri metropole regiona i donosi pregled zbivanja iz Sarajeva, Zagreba i Beograda. Gledaocima donosimo zanimljivosti iz sveta zabave, kulture, i umetnosti.</desc>
 	</programme>
-	<programme start="20231201224501 +0200" stop="20231201230001 +0200" start_timestamp="1701467100" stop_timestamp="1701467100" channel="N1">
+	<programme start="20231201224501 +0100" stop="20231201230001 +0100" start_timestamp="1701467100" stop_timestamp="1701467100" channel="N1">
 		<title>Global info CNN</title>
 		<desc>Emisija o svetskim događajima koji su obeležili dan, uz analize globalnih tema i procesa.</desc>
 	</programme>
-	<programme start="20231201230001 +0200" stop="20231201233001 +0200" start_timestamp="1701468000" stop_timestamp="1701468000" channel="N1">
+	<programme start="20231201230001 +0100" stop="20231201233001 +0100" start_timestamp="1701468000" stop_timestamp="1701468000" channel="N1">
 		<title>Idemo dalje</title>
 		<desc></desc>
 	</programme>
-	<programme start="20231201233001 +0200" stop="20231202000001 +0200" start_timestamp="1701469800" stop_timestamp="1701469800" channel="N1">
+	<programme start="20231201233001 +0100" stop="20231202000001 +0100" start_timestamp="1701469800" stop_timestamp="1701469800" channel="N1">
 		<title>Horizonti</title>
 		<desc>Zanimljivosti iz sveta politike, biznisa, sporta, kulture, nauke i zabave. Pozadine događaja i fenomena. Priče koje proširuju vidike i približavaju ličnosti, događaje i stvarnost sveta u kome živimo.</desc>
 	</programme>
@@ -400,323 +400,323 @@
 	<display-name>RTS 2</display-name>
 	<icon src="" />
 </channel>
-	<programme start="20231202060501 +0200" stop="20231202070001 +0200" start_timestamp="1701493500" stop_timestamp="1701493500" channel="RTS 2">
+	<programme start="20231202060501 +0100" stop="20231202070001 +0100" start_timestamp="1701493500" stop_timestamp="1701493500" channel="RTS 2">
 		<title>Koncert za dobro jutro</title>
 		<desc>Jutarnji muzički program ozbiljne i zabavne muzike.</desc>
 	</programme>
-	<programme start="20231202070001 +0200" stop="20231202072501 +0200" start_timestamp="1701496800" stop_timestamp="1701496800" channel="RTS 2">
+	<programme start="20231202070001 +0100" stop="20231202072501 +0100" start_timestamp="1701496800" stop_timestamp="1701496800" channel="RTS 2">
 		<title>Slagalica</title>
 		<desc>TV slagalica je kviz sa najdužom tradicijom među TV kvizovima na našim prostorima. Traje 16 godina i okuplja sve veći broj gledalaca kojima je, kako sami kažu, postala omiljena serija koju ne propuštaju. O tome svedoče podaci prema kojima je TV slagalica već nekoliko godina među deset najgledanijih emisija na svim TV stanicama u našoj zemlji. Među emisijama istog žanra zauzima jedno od prva tri mesta. Ovako zavidan nivo gledanosti i opstanak našeg domaćeg kviza u oštroj konkurenciji licencnih TV kvizova može da se objasni ocenom gledalaca i takmičara da je TV slagalica kviz koji uz zanimljive igre ima dušu.</desc>
 	</programme>
-	<programme start="20231202072501 +0200" stop="20231202073001 +0200" start_timestamp="1701498300" stop_timestamp="1701498300" channel="RTS 2">
+	<programme start="20231202072501 +0100" stop="20231202073001 +0100" start_timestamp="1701498300" stop_timestamp="1701498300" channel="RTS 2">
 		<title>Datum</title>
 		<desc>Ova petominutna emisija nas obaveštava, ili nas podseća na događaje iz bliže i dalje prošlosti i na značajne istorijske ličnosti, povezane sa današnjim datumom.</desc>
 	</programme>
-	<programme start="20231202073001 +0200" stop="20231202074001 +0200" start_timestamp="1701498600" stop_timestamp="1701498600" channel="RTS 2">
+	<programme start="20231202073001 +0100" stop="20231202074001 +0100" start_timestamp="1701498600" stop_timestamp="1701498600" channel="RTS 2">
 		<title>Verski kalendar</title>
 		<desc>Desetominutna emisija </desc>
 	</programme>
-	<programme start="20231202074001 +0200" stop="20231202084001 +0200" start_timestamp="1701499200" stop_timestamp="1701499200" channel="RTS 2">
+	<programme start="20231202074001 +0100" stop="20231202084001 +0100" start_timestamp="1701499200" stop_timestamp="1701499200" channel="RTS 2">
 		<title>ARHIV. doc</title>
 		<desc>Emisija iz kulture koja se osvrće na živote i stvaralaštvo umetnika različitog kalibra.</desc>
 	</programme>
-	<programme start="20231202084001 +0200" stop="20231202085101 +0200" start_timestamp="1701502800" stop_timestamp="1701502800" channel="RTS 2">
+	<programme start="20231202084001 +0100" stop="20231202085101 +0100" start_timestamp="1701502800" stop_timestamp="1701502800" channel="RTS 2">
 		<title>Teslini Znanjoni</title>
 		<desc>Dobro došli u Teslandiju - tajanstveni svet pronalazača Nikole Tesle u kome je najjača magija znanje a njeni čuvari mali roboti Znanjoni. U zabavnim avanturama sa devojčicom Tajnom, dečakom Mačkom i moćnim Znanjonima deca će sa lakoćom sticati nova znanja i usvajati naučne pojmove sa ciljem da probude njihovu radoznalost i motivaciju za učenjem.</desc>
 	</programme>
-	<programme start="20231202085101 +0200" stop="20231202090301 +0200" start_timestamp="1701503460" stop_timestamp="1701503460" channel="RTS 2">
+	<programme start="20231202085101 +0100" stop="20231202090301 +0100" start_timestamp="1701503460" stop_timestamp="1701503460" channel="RTS 2">
 		<title>Bontonovići</title>
 		<desc>RTS-ov serijal ,,Bontonovići</desc>
 	</programme>
-	<programme start="20231202090301 +0200" stop="20231202092101 +0200" start_timestamp="1701504180" stop_timestamp="1701504180" channel="RTS 2">
+	<programme start="20231202090301 +0100" stop="20231202092101 +0100" start_timestamp="1701504180" stop_timestamp="1701504180" channel="RTS 2">
 		<title>Kukuriku šou</title>
 		<desc>Dobrodošli u </desc>
 	</programme>
-	<programme start="20231202092101 +0200" stop="20231202094001 +0200" start_timestamp="1701505260" stop_timestamp="1701505260" channel="RTS 2">
+	<programme start="20231202092101 +0100" stop="20231202094001 +0100" start_timestamp="1701505260" stop_timestamp="1701505260" channel="RTS 2">
 		<title>Plava ptica</title>
 		<desc>Govori šta hoće, često govori i kad hoće, radi nelogične stvari, ali ekipu </desc>
 	</programme>
-	<programme start="20231202094001 +0200" stop="20231202101001 +0200" start_timestamp="1701506400" stop_timestamp="1701506400" channel="RTS 2">
+	<programme start="20231202094001 +0100" stop="20231202101001 +0100" start_timestamp="1701506400" stop_timestamp="1701506400" channel="RTS 2">
 		<title>Dobro je, dobro je znati</title>
 		<desc>Da li ruj i maline zaustavljaju tumorske ćelije, čičak čisti jetru, bokvica pluća? Šta su dokazala najnovija istrašivanja Instituta za farmakognoziju i klinička ispitivanja lekova Instituta za onkologiju i Angencije za lekove? Da li je razlika između lekova i otrova u dozi, da li lekovite biljke imaju štetna dejstva, u kojim sve slučajevima je neophodan oprez? Šta je to što može da doprinese sprečavanju bolesti ili bržem oporavku? Koja su nova naučna saznanja o biljnim lekovima, tradicionalnoj medicini, aktivnom pristupu zdravlju, samolečenju? Dobro je znati odgovore na ova pitanja i zato se to istražuje u emisiji.</desc>
 	</programme>
-	<programme start="20231202101001 +0200" stop="20231202102001 +0200" start_timestamp="1701508200" stop_timestamp="1701508200" channel="RTS 2">
+	<programme start="20231202101001 +0100" stop="20231202102001 +0100" start_timestamp="1701508200" stop_timestamp="1701508200" channel="RTS 2">
 		<title>Datum</title>
 		<desc>Ova petominutna emisija nas obaveštava, ili nas podseća na događaje iz bliže i dalje prošlosti i na značajne istorijske ličnosti, povezane sa današnjim datumom.</desc>
 	</programme>
-	<programme start="20231202102001 +0200" stop="20231202111501 +0200" start_timestamp="1701508800" stop_timestamp="1701508800" channel="RTS 2">
+	<programme start="20231202102001 +0100" stop="20231202111501 +0100" start_timestamp="1701508800" stop_timestamp="1701508800" channel="RTS 2">
 		<title>Znanje imanje</title>
 		<desc>Karavan Znanje imanje obilazi sela Srbije i beleži sve muke i radosti našeg domaćina. Emisija se isključivo bavi životom i radom naših poljoprivrednih proizvođača kako bi opstala naša sela.</desc>
 	</programme>
-	<programme start="20231202111501 +0200" stop="20231202115001 +0200" start_timestamp="1701512100" stop_timestamp="1701512100" channel="RTS 2">
+	<programme start="20231202111501 +0100" stop="20231202115001 +0100" start_timestamp="1701512100" stop_timestamp="1701512100" channel="RTS 2">
 		<title>Magazin Srbija na vezi</title>
 		<desc>Pratite zabavnu emisiju koja donosi mnoge aktuelne informacije i interesantne teme i koja će nam predstaviti mnoge značajne ličnosti iz zemlje i inostranstva, sve to uz divnu muziku sjajnih muzičara i pevača.</desc>
 	</programme>
-	<programme start="20231202115001 +0200" stop="20231202122001 +0200" start_timestamp="1701514200" stop_timestamp="1701514200" channel="RTS 2">
+	<programme start="20231202115001 +0100" stop="20231202122001 +0100" start_timestamp="1701514200" stop_timestamp="1701514200" channel="RTS 2">
 		<title>Dozvolite...</title>
 		<desc>Informativna emisija koja se bavi vojno - bezbednosnim temama. Saznajte novosti iz vojske i gledajte zanimljive priče o životu i radu pripadnika Ministarstva odbrane i Vojske Srbije, naoružanju i vojnoj opremi, vojnoj istoriji, međunarodnoj vojnoj saradnji odbrambenoj industriji, zanimljivostima, naučnim istraživanjima iz sfere odbrane i </desc>
 	</programme>
-	<programme start="20231202122001 +0200" stop="20231202125001 +0200" start_timestamp="1701516000" stop_timestamp="1701516000" channel="RTS 2">
+	<programme start="20231202122001 +0100" stop="20231202125001 +0100" start_timestamp="1701516000" stop_timestamp="1701516000" channel="RTS 2">
 		<title>Mesto za nas</title>
 		<desc>Znamo li šta su ljudska prava i da li ih poštujemo? Da li ta ljudska prava poštujemo kada su osobe sa invaliditetom u pitanju ili su one još uvek na neki način diskriminisane? To su pitanja koja postavljamo u ovonedeljnoj emisiji o osobama sa invaliditetom </desc>
 	</programme>
-	<programme start="20231202125001 +0200" stop="20231202134701 +0200" start_timestamp="1701517800" stop_timestamp="1701517800" channel="RTS 2">
+	<programme start="20231202125001 +0100" stop="20231202134701 +0100" start_timestamp="1701517800" stop_timestamp="1701517800" channel="RTS 2">
 		<title>Fudbal (U-17) - SP - FIFA World Cup Indonesia: finale, 1. poluvreme</title>
 		<desc>Najtalentovaniji igrači sveta okupljaju se u Indoneziji, gde će se od 10. novembra do 2. decembra održati 19. Svetsko prvenstvo za kadete, to jest fudbalere do 17 godina starosti. Najzanimljivije utakmice kao i mečeve same završnice moćićete da gledate direktno na programima RTS-a.</desc>
 	</programme>
-	<programme start="20231202134701 +0200" stop="20231202140001 +0200" start_timestamp="1701521220" stop_timestamp="1701521220" channel="RTS 2">
+	<programme start="20231202134701 +0100" stop="20231202140001 +0100" start_timestamp="1701521220" stop_timestamp="1701521220" channel="RTS 2">
 		<title>Eko minijature: Zoofobija</title>
 		<desc>Među insektima ima onih čiji ubod može biti opasan za čoveka pa je oprez neophodan, ali ima i onih naizgled strašnih a bezopasnih. Međutim, u strahu su velike oči pa je osobu koja se plaši teško u to ubediti.</desc>
 	</programme>
-	<programme start="20231202140001 +0200" stop="20231202145001 +0200" start_timestamp="1701522000" stop_timestamp="1701522000" channel="RTS 2">
+	<programme start="20231202140001 +0100" stop="20231202145001 +0100" start_timestamp="1701522000" stop_timestamp="1701522000" channel="RTS 2">
 		<title>Fudbal (U-17) - SP - FIFA World Cup Indonesia: finale, 2. poluvreme</title>
 		<desc>Najtalentovaniji igrači sveta okupljaju se u Indoneziji, gde će se od 10. novembra do 2. decembra održati 19. Svetsko prvenstvo za kadete, to jest fudbalere do 17 godina starosti. Najzanimljivije utakmice kao i mečeve same završnice moćićete da gledate direktno na programima RTS-a.</desc>
 	</programme>
-	<programme start="20231202145001 +0200" stop="20231202151501 +0200" start_timestamp="1701525000" stop_timestamp="1701525000" channel="RTS 2">
+	<programme start="20231202145001 +0100" stop="20231202151501 +0100" start_timestamp="1701525000" stop_timestamp="1701525000" channel="RTS 2">
 		<title>Zelena Evropa</title>
 		<desc>Vertikalna šuma, najpoznatija </desc>
 	</programme>
-	<programme start="20231201133301 +0200" stop="20231201135701 +0200" start_timestamp="1701433980" stop_timestamp="1701433980" channel="RTS 2">
+	<programme start="20231201133301 +0100" stop="20231201135701 +0100" start_timestamp="1701433980" stop_timestamp="1701433980" channel="RTS 2">
 		<title>Beležnica 27</title>
 		<desc>Poglavlje 27 o životnoj sredini i klimatskim promenama je najkompleksnije jer zahteva podršku svih državnih institucija i aktivnost čitavog društva. U serijalu </desc>
 	</programme>
-	<programme start="20231201135701 +0200" stop="20231201144801 +0200" start_timestamp="1701435420" stop_timestamp="1701435420" channel="RTS 2">
+	<programme start="20231201135701 +0100" stop="20231201144801 +0100" start_timestamp="1701435420" stop_timestamp="1701435420" channel="RTS 2">
 		<title>Tajne internata za plemićke kćeri</title>
 		<desc>Radnja je smeštena u doba Ane Karenjine, u 1877. godinu kada je ruska imperija bila u ratu sa Turskom. U centru zbivanja nalaze se učenice plave krvi, nadaleko čuvenih generala i grofova. U moskovskom Internatu, Sofija, Mirjam, Varja, Tata, Katja i Asja dele zajedničku spavaonicu. Prefinjene i romantične, ove devojke sanjaju o čistoj ljubavi, ali ubrzo će saznati da je put do sreće uvek trnovit. Kada diplomiraju, mnoge će se dobro udati ili postati caričine dvorske dame. Ipak, svi njihovi snovi neće se ostvariti, što će dovesti do razdora i mržnje preteći da uništi ugled dugogodišnje ženske tradicije.</desc>
 	</programme>
-	<programme start="20231201144801 +0200" stop="20231201155001 +0200" start_timestamp="1701438480" stop_timestamp="1701438480" channel="RTS 2">
+	<programme start="20231201144801 +0100" stop="20231201155001 +0100" start_timestamp="1701438480" stop_timestamp="1701438480" channel="RTS 2">
 		<title>Dekster</title>
 		<desc>Ljubitelje kriminalistike i misterije veoma će obradovati informacija da priča o neouobičajenom serijskom ubici, stiže na Prvi program RTS-a, radnim danima oko ponoći. Ova drama bazirana je na liku iz serije romana Dekster pisca Džef Linsdeja, a ekranizovao je Džejms Manos Džunior. Radnja serije odvija se u Majamiju i prati Dekstera Morgana, serijskog ubicu koji radi u policiji kao forenzičar za krv. Zbog tragedije koju je doživeo u detinjstvu, oseća strast i potrebu za ubijanjem, koju je njegov otac koji ga je usvojio, policajac Hari Morgan, kanalisao da ubija ljude koji to </desc>
 	</programme>
-	<programme start="20231201155001 +0200" stop="20231201175201 +0200" start_timestamp="1701442200" stop_timestamp="1701442200" channel="RTS 2">
+	<programme start="20231201155001 +0100" stop="20231201175201 +0100" start_timestamp="1701442200" stop_timestamp="1701442200" channel="RTS 2">
 		<title>Fudbal: UEFA Liga nacija (Ž): Grčka - Srbija</title>
 		<desc></desc>
 	</programme>
-	<programme start="20231201175201 +0200" stop="20231201182801 +0200" start_timestamp="1701449520" stop_timestamp="1701449520" channel="RTS 2">
+	<programme start="20231201175201 +0100" stop="20231201182801 +0100" start_timestamp="1701449520" stop_timestamp="1701449520" channel="RTS 2">
 		<title>Lov i ribolov</title>
 		<desc>Ekipa emisije </desc>
 	</programme>
-	<programme start="20231201182801 +0200" stop="20231201184401 +0200" start_timestamp="1701451680" stop_timestamp="1701451680" channel="RTS 2">
+	<programme start="20231201182801 +0100" stop="20231201184401 +0100" start_timestamp="1701451680" stop_timestamp="1701451680" channel="RTS 2">
 		<title>Da nam nije...</title>
 		<desc>Pozorišni život u Ruskom Krsturu, mestu u centralnoj Bačkoj gde većinom žive pripadnici rusinske nacionalne manjine, ima tradiciju dužu od pola veka.</desc>
 	</programme>
-	<programme start="20231201184401 +0200" stop="20231201191201 +0200" start_timestamp="1701452640" stop_timestamp="1701452640" channel="RTS 2">
+	<programme start="20231201184401 +0100" stop="20231201191201 +0100" start_timestamp="1701452640" stop_timestamp="1701452640" channel="RTS 2">
 		<title>Nauka</title>
 		<desc>U ovoj emisiji edukativno-informativnog karaktera bavimo se svakodnevnim pojavama sa naučnog stanovišta, ispitujući uticaj našeg svakodnevnog života i poslova na globalne promene.</desc>
 	</programme>
-	<programme start="20231201191201 +0200" stop="20231201191601 +0200" start_timestamp="1701454320" stop_timestamp="1701454320" channel="RTS 2">
+	<programme start="20231201191201 +0100" stop="20231201191601 +0100" start_timestamp="1701454320" stop_timestamp="1701454320" channel="RTS 2">
 		<title>Inovacije - minijature</title>
 		<desc>Javni solarni punjač mobilnih telefona za upotrebu na prometnim mestima, kao što su: ulice, parkovi i trgovi, ima za cilj da, korišćenjem energije dobijene od Sunca, građanima ponudi besplatno dopunjavanje baterije, onda kada im je to najpotrebnije.</desc>
 	</programme>
-	<programme start="20231201191601 +0200" stop="20231201192301 +0200" start_timestamp="1701454560" stop_timestamp="1701454560" channel="RTS 2">
+	<programme start="20231201191601 +0100" stop="20231201192301 +0100" start_timestamp="1701454560" stop_timestamp="1701454560" channel="RTS 2">
 		<title>Lajmet</title>
 		<desc>Informativna emisija na albanskom jeziku koja donosi najnovije dnevne vesti i informacije. Koncept je takav da narator objašnjava snimke dnevnih događaja.</desc>
 	</programme>
-	<programme start="20231201192301 +0200" stop="20231201202001 +0200" start_timestamp="1701454980" stop_timestamp="1701454980" channel="RTS 2">
+	<programme start="20231201192301 +0100" stop="20231201202001 +0100" start_timestamp="1701454980" stop_timestamp="1701454980" channel="RTS 2">
 		<title>Tajne internata za plemićke kćeri</title>
 		<desc>Radnja je smeštena u doba Ane Karenjine, u 1877. godinu kada je ruska imperija bila u ratu sa Turskom. U centru zbivanja nalaze se učenice plave krvi, nadaleko čuvenih generala i grofova. U moskovskom Internatu, Sofija, Mirjam, Varja, Tata, Katja i Asja dele zajedničku spavaonicu. Prefinjene i romantične, ove devojke sanjaju o čistoj ljubavi, ali ubrzo će saznati da je put do sreće uvek trnovit. Kada diplomiraju, mnoge će se dobro udati ili postati caričine dvorske dame. Ipak, svi njihovi snovi neće se ostvariti, što će dovesti do razdora i mržnje preteći da uništi ugled dugogodišnje ženske tradicije.</desc>
 	</programme>
-	<programme start="20231201202001 +0200" stop="20231201220201 +0200" start_timestamp="1701458400" stop_timestamp="1701458400" channel="RTS 2">
+	<programme start="20231201202001 +0100" stop="20231201220201 +0100" start_timestamp="1701458400" stop_timestamp="1701458400" channel="RTS 2">
 		<title>Rukomet (ž) - SP: Danska - Srbija</title>
 		<desc>Rukometašice Srbije će u petak odigrati prvu utakmicu na svetskom šampionatu, koji od 29. novembra do 17. decembra zajednički organizaciju Danska, Švedska i Norveška.</desc>
 	</programme>
-	<programme start="20231201220201 +0200" stop="20231201225001 +0200" start_timestamp="1701464520" stop_timestamp="1701464520" channel="RTS 2">
+	<programme start="20231201220201 +0100" stop="20231201225001 +0100" start_timestamp="1701464520" stop_timestamp="1701464520" channel="RTS 2">
 		<title>Ženski raj</title>
 		<desc>Glavni lik je Tereza, mlada žena koja ostavlja Salva, verenika kojeg joj je otac odabrao jer je gradonačelnikov sin, i sa Sicilije odlazi u Milano. Tereza se nada da će se tu zaposliti u stričevoj prodavnici. Ali kad stigne u Milano, saznaje da joj je stric na ivici bankrota i da je optužen da je zapalio kombi ugledne robne kuće Raj za dame zbog koje gubi posao. Vlasnik robne kuće je Pijetro Mori, mladi preduzetnik tajanstvene prošlosti, koji je nakon putovanja u SAD, posle rata uspeo da otvori elegantnu i modernu robnu kuću, gde se Tereza prijavljuje na konkurs za prodavačicu. Nakon niza peripetija uspeva da se zaposli i pokaže da je ambiciozna i preduzimljiva devojka koja ubrzo stiče poverenje kolega. Devojka se na kraju ludo zaljubljuje u Pijetra Morija, ali mora da se vrati na Siciliju jer je njen otac obećao gradonačelniku Kastelbuonoa da će se Tereza udati za njegovog sina Salva...</desc>
 	</programme>
-	<programme start="20231201225001 +0200" stop="20231201233901 +0200" start_timestamp="1701467400" stop_timestamp="1701467400" channel="RTS 2">
+	<programme start="20231201225001 +0100" stop="20231201233901 +0100" start_timestamp="1701467400" stop_timestamp="1701467400" channel="RTS 2">
 		<title>Čas anatomije</title>
 		<desc>Oni Drugi, oni koji prate, posmatraju, slažu se ili se ne slažu, vrednuju ili kritikuju, slede... publika.</desc>
 	</programme>
-	<programme start="20231201233901 +0200" stop="20231202003701 +0200" start_timestamp="1701470340" stop_timestamp="1701470340" channel="RTS 2">
+	<programme start="20231201233901 +0100" stop="20231202003701 +0100" start_timestamp="1701470340" stop_timestamp="1701470340" channel="RTS 2">
 		<title>Studio znanja - Nešto sasvim drugačije</title>
 		<desc>U poslednjih pet godina, broj smrtno stradalih i povređenih u putničkim i teretnim vozilima je najveći, a pod najvećim rizikom nalaze se mladi - kaže statistika Agencije za bezbednost saobraćaja.</desc>
 	</programme>
-	<programme start="20231202003701 +0200" stop="20231202030101 +0200" start_timestamp="1701473820" stop_timestamp="1701473820" channel="RTS 2">
+	<programme start="20231202003701 +0100" stop="20231202030101 +0100" start_timestamp="1701473820" stop_timestamp="1701473820" channel="RTS 2">
 		<title>Sluškinja</title>
 		<desc>Tridesetih godina prošlog veka, dok je Koreja bila pod japanskom okupacijom, Suki dobija posao kao sluškinja kod bogate japanske naslednice Hideko, koja živi usamljeničkim životom na velikom seoskom imanju, pod budnim okom nadmenog ujaka Kozukija. Ali sluškinja krije tajnu. Ona je lopov i unajmio ju je prevarant koji se predstavlja kao plemić. Planira da navede Hideko da se uda za njega kako bi se dokopao bogatstva, a potom je poslao u ludnicu. Sve ide po planu dok Suki i Hideko ne otkriju neke emocije...</desc>
 	</programme>
-	<programme start="20231202030101 +0200" stop="20231202031001 +0200" start_timestamp="1701482460" stop_timestamp="1701482460" channel="RTS 2">
+	<programme start="20231202030101 +0100" stop="20231202031001 +0100" start_timestamp="1701482460" stop_timestamp="1701482460" channel="RTS 2">
 		<title>Lajmet</title>
 		<desc>Informativna emisija na albanskom jeziku koja donosi najnovije dnevne vesti i informacije. Koncept je takav da narator objašnjava snimke dnevnih događaja.</desc>
 	</programme>
-	<programme start="20231202031001 +0200" stop="20231202044501 +0200" start_timestamp="1701483000" stop_timestamp="1701483000" channel="RTS 2">
+	<programme start="20231202031001 +0100" stop="20231202044501 +0100" start_timestamp="1701483000" stop_timestamp="1701483000" channel="RTS 2">
 		<title>Fudbal: UEFA Liga nacija (Ž): Grčka - Srbija</title>
 		<desc></desc>
 	</programme>
-	<programme start="20231202044501 +0200" stop="20231202060501 +0200" start_timestamp="1701488700" stop_timestamp="1701488700" channel="RTS 2">
+	<programme start="20231202044501 +0100" stop="20231202060501 +0100" start_timestamp="1701488700" stop_timestamp="1701488700" channel="RTS 2">
 		<title>Rukomet (ž) - SP: Danska - Srbija</title>
 		<desc>Svetsko rukometno prvenstvo za žene je takmičenje reprezentacija koje Međunarodna rukometna federacija organizuje od 1957. godine. Od 1993. godine ovo takmičenje se održava na svake dve godine, dok su pre toga razmaci među takmičenjima bili neujednačeni i varirali su od dve do šest godina.</desc>
 	</programme>
-	<programme start="20231202151501 +0200" stop="20231202155501 +0200" start_timestamp="1701526500" stop_timestamp="1701526500" channel="RTS 2">
+	<programme start="20231202151501 +0100" stop="20231202155501 +0100" start_timestamp="1701526500" stop_timestamp="1701526500" channel="RTS 2">
 		<title>Svečani koncert Narodnog orkestra RTS</title>
 		<desc>Svojim radom Narondi orkestar RTS pridoneo je negovanju našeg muzičkog nasleđa i ostavio nezanemarljiv trag u našoj tradicionalnoj kulturi.</desc>
 	</programme>
-	<programme start="20231202155501 +0200" stop="20231202162501 +0200" start_timestamp="1701528900" stop_timestamp="1701528900" channel="RTS 2">
+	<programme start="20231202155501 +0100" stop="20231202162501 +0100" start_timestamp="1701528900" stop_timestamp="1701528900" channel="RTS 2">
 		<title>Velika iluzija</title>
 		<desc>Zabavni, strašni, hrabri, tužni, uzbudljivi, drski, crno-beli, u boji, domaći, strani, drugačiji, omiljeni, komercijalni, umetnički - svi filmovi i sve o filmovima u autorskoj emisiji Sandre Perović. Emisije o filmu u duhu su tradicije Televizije Beograd. Velika iluzija se na informativan, zabavan, ali i analitičan način bavi filmskim aktuelnostima na našoj i inostranoj sceni - recentna produkcija, festivali, filmski događaji, vesti, top lista gledanosti. Sadrži ekskluzivne sadržaje - posvete respektabilnim autorima i intervjue sa eminentnim svetskim i domaćim stvaraocima.</desc>
 	</programme>
-	<programme start="20231202162501 +0200" stop="20231202175501 +0200" start_timestamp="1701530700" stop_timestamp="1701530700" channel="RTS 2">
+	<programme start="20231202162501 +0100" stop="20231202175501 +0100" start_timestamp="1701530700" stop_timestamp="1701530700" channel="RTS 2">
 		<title>U korak sa Stajnovima</title>
 		<desc>Trinaestogodišnji dečak pokušava da iskoristi svoju bar-micvu da reši zategnuti odnos između svog oca i dede. Mladi Bendžamin ima problem. Ne samo što će morati dugo da provede u hramu sa ljudima koji pričaju na hebrejskom, jeziku koji ne razume, nego roditelji planiraju da potroše malo bogatstvo na proslavu. Njegova porodica, Fidlerovi, želi da zaseni proslavu koju je organizovao očev suparnik sa posla iz porodice Stajnovih. A kada se pojavi deda, ostareli hipik i njegova mlada partnerka, svi planovi počinju da padaju u vodu.</desc>
 	</programme>
-	<programme start="20231202175501 +0200" stop="20231202191001 +0200" start_timestamp="1701536100" stop_timestamp="1701536100" channel="RTS 2">
+	<programme start="20231202175501 +0100" stop="20231202191001 +0100" start_timestamp="1701536100" stop_timestamp="1701536100" channel="RTS 2">
 		<title>Vaterpolo - Kup Srbije: Partizan - Novi Beograd, polufinale 1</title>
 		<desc>Кup Srbije u vaterpolu je nacionalni kup Srbije koji se održava u organizaciji Vaterpolo saveza Srbije. Prema trenutnim propozicijama pravo nastupa na finalnom turniru Кupa Srbije imaju četiri prvoplasirane ekipe iz prvog dela sezone Prve A lige Srbije.</desc>
 	</programme>
-	<programme start="20231202191001 +0200" stop="20231202202501 +0200" start_timestamp="1701540600" stop_timestamp="1701540600" channel="RTS 2">
+	<programme start="20231202191001 +0100" stop="20231202202501 +0100" start_timestamp="1701540600" stop_timestamp="1701540600" channel="RTS 2">
 		<title>Koncert Harisa Džinovića</title>
 		<desc>Rođeni Sarajlija, pevač, kompozitor i izvođač na pet instrumenata. Bio je deo najveće sarajevske muzičke scene kada su Jugoslavijom harali: Zdravko Čolić, Kemal Monteno, Indeksi, Pro Arte i Bijelo dugme. Počinje karijeru kao pevač sevdalinki, zatim se okreće evergrin muzici. Kada se pojavio film </desc>
 	</programme>
-	<programme start="20231202202501 +0200" stop="20231202214001 +0200" start_timestamp="1701545100" stop_timestamp="1701545100" channel="RTS 2">
+	<programme start="20231202202501 +0100" stop="20231202214001 +0100" start_timestamp="1701545100" stop_timestamp="1701545100" channel="RTS 2">
 		<title>Vaterpolo - Kup Srbije: Crvena zvezda - Radnički, polufinale 2</title>
 		<desc>Кup Srbije u vaterpolu je nacionalni kup Srbije koji se održava u organizaciji Vaterpolo saveza Srbije. Prema trenutnim propozicijama pravo nastupa na finalnom turniru Кupa Srbije imaju četiri prvoplasirane ekipe iz prvog dela sezone Prve A lige Srbije.</desc>
 	</programme>
-	<programme start="20231202214001 +0200" stop="20231202214501 +0200" start_timestamp="1701549600" stop_timestamp="1701549600" channel="RTS 2">
+	<programme start="20231202214001 +0100" stop="20231202214501 +0100" start_timestamp="1701549600" stop_timestamp="1701549600" channel="RTS 2">
 		<title>Datum</title>
 		<desc>Ova petominutna emisija nas obaveštava, ili nas podseća na događaje iz bliže i dalje prošlosti i na značajne istorijske ličnosti, povezane sa današnjim datumom.</desc>
 	</programme>
-	<programme start="20231202214501 +0200" stop="20231202220001 +0200" start_timestamp="1701549900" stop_timestamp="1701549900" channel="RTS 2">
+	<programme start="20231202214501 +0100" stop="20231202220001 +0100" start_timestamp="1701549900" stop_timestamp="1701549900" channel="RTS 2">
 		<title>Verski kalendar</title>
 		<desc>Desetominutna emisija </desc>
 	</programme>
-	<programme start="20231202220001 +0200" stop="20231202230001 +0200" start_timestamp="1701550800" stop_timestamp="1701550800" channel="RTS 2">
+	<programme start="20231202220001 +0100" stop="20231202230001 +0100" start_timestamp="1701550800" stop_timestamp="1701550800" channel="RTS 2">
 		<title>Žukov</title>
 		<desc>Ruska istorijska serija o sudbini Georgija Konstantinoviča Žukova, sovjetskog vojskovođe, maršala Sovjetskog Saveza i ministra odbrane Sovjetskog Saveza od 1955. do 1957. godine. Počevši od parade za Dan pobede 1945. do svoje smrti 1974. godine, Žukov se suočio i sa univerzalnim priznanjem i sa Staljinovim progonom. Ovo je istinita priča o ljubavi, neslomljenom duhu i hrabrosti. Gledaoci će u 12 epizoda imati priliku da vide priču o usponu i padu čuvenog maršala.</desc>
 	</programme>
-	<programme start="20231202230001 +0200" stop="20231202233001 +0200" start_timestamp="1701554400" stop_timestamp="1701554400" channel="RTS 2">
+	<programme start="20231202230001 +0100" stop="20231202233001 +0100" start_timestamp="1701554400" stop_timestamp="1701554400" channel="RTS 2">
 		<title>Do detalja</title>
 		<desc>Povodom uloge u televizijskoj seriji </desc>
 	</programme>
-	<programme start="20231202233001 +0200" stop="20231203010501 +0200" start_timestamp="1701556200" stop_timestamp="1701556200" channel="RTS 2">
+	<programme start="20231202233001 +0100" stop="20231203010501 +0100" start_timestamp="1701556200" stop_timestamp="1701556200" channel="RTS 2">
 		<title>TV Teatar</title>
 		<desc>U mesecu decembru, TV teatar prikazuje ciklus posvećen velikoj srpskoj glumici Svetlani Bojković.</desc>
 	</programme>
-	<programme start="20231203010501 +0200" stop="20231203020501 +0200" start_timestamp="1701561900" stop_timestamp="1701561900" channel="RTS 2">
+	<programme start="20231203010501 +0100" stop="20231203020501 +0100" start_timestamp="1701561900" stop_timestamp="1701561900" channel="RTS 2">
 		<title>Di Luna Bluz bend - prvih 30 godina</title>
 		<desc>Beogradska bluz grupa, Di Luna bluz bend, osnovana je 1989. godine. Predvodi je gitarista Dragan Marković Mare.</desc>
 	</programme>
-	<programme start="20231203020501 +0200" stop="20231203034501 +0200" start_timestamp="1701565500" stop_timestamp="1701565500" channel="RTS 2">
+	<programme start="20231203020501 +0100" stop="20231203034501 +0100" start_timestamp="1701565500" stop_timestamp="1701565500" channel="RTS 2">
 		<title>Fudbal (U-17) - SP - FIFA World Cup Indonesia: finale</title>
 		<desc>Najtalentovaniji igrači sveta okupljaju se u Indoneziji, gde će se od 10. novembra do 2. decembra održati 19. Svetsko prvenstvo za kadete, to jest fudbalere do 17 godina starosti. Najzanimljivije utakmice kao i mečeve same završnice moćićete da gledate direktno na programima RTS-a.</desc>
 	</programme>
-	<programme start="20231203034501 +0200" stop="20231203045501 +0200" start_timestamp="1701571500" stop_timestamp="1701571500" channel="RTS 2">
+	<programme start="20231203034501 +0100" stop="20231203045501 +0100" start_timestamp="1701571500" stop_timestamp="1701571500" channel="RTS 2">
 		<title>Vaterpolo - Kup Srbije: Partizan - Novi Beograd, polufinale 1</title>
 		<desc>Кup Srbije u vaterpolu je nacionalni kup Srbije koji se održava u organizaciji Vaterpolo saveza Srbije. Prema trenutnim propozicijama pravo nastupa na finalnom turniru Кupa Srbije imaju četiri prvoplasirane ekipe iz prvog dela sezone Prve A lige Srbije.</desc>
 	</programme>
-	<programme start="20231203045501 +0200" stop="20231203061001 +0200" start_timestamp="1701575700" stop_timestamp="1701575700" channel="RTS 2">
+	<programme start="20231203045501 +0100" stop="20231203061001 +0100" start_timestamp="1701575700" stop_timestamp="1701575700" channel="RTS 2">
 		<title>Vaterpolo - Kup Srbije: Crvena zvezda - Radnički, polufinale 2</title>
 		<desc>Кup Srbije u vaterpolu je nacionalni kup Srbije koji se održava u organizaciji Vaterpolo saveza Srbije. Prema trenutnim propozicijama pravo nastupa na finalnom turniru Кupa Srbije imaju četiri prvoplasirane ekipe iz prvog dela sezone Prve A lige Srbije.</desc>
 	</programme>
-	<programme start="20231203061001 +0200" stop="20231203075501 +0200" start_timestamp="1701580200" stop_timestamp="1701580200" channel="RTS 2">
+	<programme start="20231203061001 +0100" stop="20231203075501 +0100" start_timestamp="1701580200" stop_timestamp="1701580200" channel="RTS 2">
 		<title>Muzika za dobro jutro</title>
 		<desc>Domaći i strani izvođači poželeće nam dobro jutro uz svoje najveće hitove.</desc>
 	</programme>
-	<programme start="20231203075501 +0200" stop="20231203081501 +0200" start_timestamp="1701586500" stop_timestamp="1701586500" channel="RTS 2">
+	<programme start="20231203075501 +0100" stop="20231203081501 +0100" start_timestamp="1701586500" stop_timestamp="1701586500" channel="RTS 2">
 		<title>Slagalica</title>
 		<desc>TV slagalica je kviz sa najdužom tradicijom među TV kvizovima na našim prostorima. Traje 16 godina i okuplja sve veći broj gledalaca kojima je, kako sami kažu, postala omiljena serija koju ne propuštaju. O tome svedoče podaci prema kojima je TV slagalica već nekoliko godina među deset najgledanijih emisija na svim TV stanicama u našoj zemlji. Među emisijama istog žanra zauzima jedno od prva tri mesta. Ovako zavidan nivo gledanosti i opstanak našeg domaćeg kviza u oštroj konkurenciji licencnih TV kvizova može da se objasni ocenom gledalaca i takmičara da je TV slagalica kviz koji uz zanimljive igre ima dušu.</desc>
 	</programme>
-	<programme start="20231203081501 +0200" stop="20231203082001 +0200" start_timestamp="1701587700" stop_timestamp="1701587700" channel="RTS 2">
+	<programme start="20231203081501 +0100" stop="20231203082001 +0100" start_timestamp="1701587700" stop_timestamp="1701587700" channel="RTS 2">
 		<title>Datum</title>
 		<desc>Ova petominutna emisija nas obaveštava, ili nas podseća na događaje iz bliže i dalje prošlosti i na značajne istorijske ličnosti, povezane sa današnjim datumom.</desc>
 	</programme>
-	<programme start="20231203082001 +0200" stop="20231203083001 +0200" start_timestamp="1701588000" stop_timestamp="1701588000" channel="RTS 2">
+	<programme start="20231203082001 +0100" stop="20231203083001 +0100" start_timestamp="1701588000" stop_timestamp="1701588000" channel="RTS 2">
 		<title>Verski kalendar</title>
 		<desc>Desetominutna emisija </desc>
 	</programme>
-	<programme start="20231203083001 +0200" stop="20231203092101 +0200" start_timestamp="1701588600" stop_timestamp="1701588600" channel="RTS 2">
+	<programme start="20231203083001 +0100" stop="20231203092101 +0100" start_timestamp="1701588600" stop_timestamp="1701588600" channel="RTS 2">
 		<title>NTC kviz</title>
 		<desc>Na Radio-televiziji Srbije od jeseni gledamo novi kviz za decu! I to ne bilo koji kviz, već </desc>
 	</programme>
-	<programme start="20231203092101 +0200" stop="20231203092401 +0200" start_timestamp="1701591660" stop_timestamp="1701591660" channel="RTS 2">
+	<programme start="20231203092101 +0100" stop="20231203092401 +0100" start_timestamp="1701591660" stop_timestamp="1701591660" channel="RTS 2">
 		<title>Plava ptica</title>
 		<desc>Interaktivni dečji magazin po zamisli Timotija Džona Bajforda.</desc>
 	</programme>
-	<programme start="20231203092401 +0200" stop="20231203092701 +0200" start_timestamp="1701591840" stop_timestamp="1701591840" channel="RTS 2">
+	<programme start="20231203092401 +0100" stop="20231203092701 +0100" start_timestamp="1701591840" stop_timestamp="1701591840" channel="RTS 2">
 		<title>Raspevana slikovnica</title>
 		<desc>Animiranu seriju </desc>
 	</programme>
-	<programme start="20231203092701 +0200" stop="20231203093001 +0200" start_timestamp="1701592020" stop_timestamp="1701592020" channel="RTS 2">
+	<programme start="20231203092701 +0100" stop="20231203093001 +0100" start_timestamp="1701592020" stop_timestamp="1701592020" channel="RTS 2">
 		<title>Plava ptica</title>
 		<desc>Interaktivni dečji magazin po zamisli Timotija Džona Bajforda.</desc>
 	</programme>
-	<programme start="20231203093001 +0200" stop="20231203101501 +0200" start_timestamp="1701592200" stop_timestamp="1701592200" channel="RTS 2">
+	<programme start="20231203093001 +0100" stop="20231203101501 +0100" start_timestamp="1701592200" stop_timestamp="1701592200" channel="RTS 2">
 		<title>Nekada davno - srpske narodne bajke</title>
 		<desc></desc>
 	</programme>
-	<programme start="20231203101501 +0200" stop="20231203111001 +0200" start_timestamp="1701594900" stop_timestamp="1701594900" channel="RTS 2">
+	<programme start="20231203101501 +0100" stop="20231203111001 +0100" start_timestamp="1701594900" stop_timestamp="1701594900" channel="RTS 2">
 		<title>E-tv</title>
 		<desc>Zabavno-informativni program posvećen informacionim tehnologijama, koji donosi najnovije vesti sa IT tržišta i prati aktuelne IT događaje.</desc>
 	</programme>
-	<programme start="20231203111001 +0200" stop="20231203114001 +0200" start_timestamp="1701598200" stop_timestamp="1701598200" channel="RTS 2">
+	<programme start="20231203111001 +0100" stop="20231203114001 +0100" start_timestamp="1701598200" stop_timestamp="1701598200" channel="RTS 2">
 		<title>Trag</title>
 		<desc>Medijski genije renesansnog kova - tako danas nazivaju Radivoja Lolu Đukića. Ovaj slikar i reditelj po obrazovanju stvarao je na radiju, snimao filmove, pokrenuo pozorište na Terazijama, a najvećeg traga ostavio je u istoriji TV Beograd kao jedan od njenih osnivača.</desc>
 	</programme>
-	<programme start="20231203114001 +0200" stop="20231203122001 +0200" start_timestamp="1701600000" stop_timestamp="1701600000" channel="RTS 2">
+	<programme start="20231203114001 +0100" stop="20231203122001 +0100" start_timestamp="1701600000" stop_timestamp="1701600000" channel="RTS 2">
 		<title>Verski mozaik Srbije</title>
 		<desc>Religijska emisija </desc>
 	</programme>
-	<programme start="20231203122001 +0200" stop="20231203125001 +0200" start_timestamp="1701602400" stop_timestamp="1701602400" channel="RTS 2">
+	<programme start="20231203122001 +0100" stop="20231203125001 +0100" start_timestamp="1701602400" stop_timestamp="1701602400" channel="RTS 2">
 		<title>Od zlata jabuka</title>
 		<desc>Emisija prati muzičke događaje i ličnosti koje neguju izvorno muzičko stvaralaštvo. Ona okuplja istraživače, melografe, etnologe, etnomuzikologe i izvođače.</desc>
 	</programme>
-	<programme start="20231203125001 +0200" stop="20231203132001 +0200" start_timestamp="1701604200" stop_timestamp="1701604200" channel="RTS 2">
+	<programme start="20231203125001 +0100" stop="20231203132001 +0100" start_timestamp="1701604200" stop_timestamp="1701604200" channel="RTS 2">
 		<title>Kulturako aresipe</title>
 		<desc>Emisija o tradiciji i običajima Roma o njihovim kulturnim dostignućima, književnosti, pozorištu i drugim umetničkim oblastima.</desc>
 	</programme>
-	<programme start="20231203132001 +0200" stop="20231203133501 +0200" start_timestamp="1701606000" stop_timestamp="1701606000" channel="RTS 2">
+	<programme start="20231203132001 +0100" stop="20231203133501 +0100" start_timestamp="1701606000" stop_timestamp="1701606000" channel="RTS 2">
 		<title>Romanipen</title>
 		<desc>Romanipen je romska reč koja se prevodi kao </desc>
 	</programme>
-	<programme start="20231203133501 +0200" stop="20231203140501 +0200" start_timestamp="1701606900" stop_timestamp="1701606900" channel="RTS 2">
+	<programme start="20231203133501 +0100" stop="20231203140501 +0100" start_timestamp="1701606900" stop_timestamp="1701606900" channel="RTS 2">
 		<title>Sve boje života</title>
 		<desc></desc>
 	</programme>
-	<programme start="20231203140501 +0200" stop="20231203143001 +0200" start_timestamp="1701608700" stop_timestamp="1701608700" channel="RTS 2">
+	<programme start="20231203140501 +0100" stop="20231203143001 +0100" start_timestamp="1701608700" stop_timestamp="1701608700" channel="RTS 2">
 		<title>Omladinska štampa u Jugoslaviji</title>
 		<desc>U petoj i poslednjoj emisiji serijala o omladinskoj štampi govorimo o njenom opstanku tokom devedesetih godina - poslednjoj deceniji u kojoj će postojati.</desc>
 	</programme>
-	<programme start="20231203143001 +0200" stop="20231203150501 +0200" start_timestamp="1701610200" stop_timestamp="1701610200" channel="RTS 2">
+	<programme start="20231203143001 +0100" stop="20231203150501 +0100" start_timestamp="1701610200" stop_timestamp="1701610200" channel="RTS 2">
 		<title>Prevaspitani</title>
 		<desc>Živimo u kolotečini svoje svakodnevice. Melju nas ordinarne, repetitivne aktivnosti usled kojih susrete ne doživimo onako kako bi bilo korisno, i potrebno - kao mogućnost da nešto spoznamo. Ovakve prilike mašimo čak i u slučaju kada nam budu, nekom prilikom, dostupni neki pametni, životno i profesionalno ostvareni likovi.</desc>
 	</programme>
-	<programme start="20231203150501 +0200" stop="20231203151001 +0200" start_timestamp="1701612300" stop_timestamp="1701612300" channel="RTS 2">
+	<programme start="20231203150501 +0100" stop="20231203151001 +0100" start_timestamp="1701612300" stop_timestamp="1701612300" channel="RTS 2">
 		<title>No information</title>
 		<desc></desc>
 	</programme>
-	<programme start="20231203151001 +0200" stop="20231203153501 +0200" start_timestamp="1701612600" stop_timestamp="1701612600" channel="RTS 2">
+	<programme start="20231203151001 +0100" stop="20231203153501 +0100" start_timestamp="1701612600" stop_timestamp="1701612600" channel="RTS 2">
 		<title>Edu global</title>
 		<desc>Rezultati istraživanja Programa Ujedinjenih Nacija za životnu sredinu pod nazivom </desc>
 	</programme>
-	<programme start="20231203153501 +0200" stop="20231203160501 +0200" start_timestamp="1701614100" stop_timestamp="1701614100" channel="RTS 2">
+	<programme start="20231203153501 +0100" stop="20231203160501 +0100" start_timestamp="1701614100" stop_timestamp="1701614100" channel="RTS 2">
 		<title>Mira Adanja Polak: Ekskluzivno</title>
 		<desc>Toliko toga je rečeno, napisano i snimljeno o Jovanki Broz, a večita intriga je ko je nasledio lične stvari Jovanke Broz, supruge Josipa Broza Tita. Na kraju čitavog procesa oko nasleđa i svih administrativnih zavrzlama, lične stvari Jovanke Broz pripale su porodici Aleksić - tačnije sinu Jovankine sestre, koji je oženjen Svetlanom Zorinom Aleksić. Ona je preuzela brigu o zaostavštini kao zastupnik fondacije </desc>
 	</programme>
-	<programme start="20231203160501 +0200" stop="20231203161001 +0200" start_timestamp="1701615900" stop_timestamp="1701615900" channel="RTS 2">
+	<programme start="20231203160501 +0100" stop="20231203161001 +0100" start_timestamp="1701615900" stop_timestamp="1701615900" channel="RTS 2">
 		<title>No information</title>
 		<desc></desc>
 	</programme>
-	<programme start="20231203161001 +0200" stop="20231203175001 +0200" start_timestamp="1701616200" stop_timestamp="1701616200" channel="RTS 2">
+	<programme start="20231203161001 +0100" stop="20231203175001 +0100" start_timestamp="1701616200" stop_timestamp="1701616200" channel="RTS 2">
 		<title>Dogodilo se na današnji dan</title>
 		<desc>Beograd šezdesetih godina; zgrada sa nekoliko ulaza i zajedničkim dvorištem u kome žive mladi ljudi, različiti po svom socijalnom statusu, načinu razmišljanja, ali sličnih stavova o ljubavi, prijateljstvu i samopotvrđivanju. Ti njihovi prirodni impulsi često su obojeni društvenim zbivanjima (radne akcije, prvomajske parade). Međutim, njihova sazrevanja odvijaju se ustaljenim pravilima. Sve što se događa u dvorištu ove sasvim obične beogradske zgrade postaje samo projekcija mogućeg iskustva jedne generacije.</desc>
 	</programme>
-	<programme start="20231203175001 +0200" stop="20231203193001 +0200" start_timestamp="1701622200" stop_timestamp="1701622200" channel="RTS 2">
+	<programme start="20231203175001 +0100" stop="20231203193001 +0100" start_timestamp="1701622200" stop_timestamp="1701622200" channel="RTS 2">
 		<title>Rukomet (ž) - SP: Rumunija - Srbija</title>
 		<desc>Svetsko rukometno prvenstvo za žene je takmičenje reprezentacija koje Međunarodna rukometna federacija organizuje od 1957. godine. Od 1993. godine ovo takmičenje se održava na svake dve godine, dok su pre toga razmaci među takmičenjima bili neujednačeni i varirali su od dve do šest godina.</desc>
 	</programme>
-	<programme start="20231203193001 +0200" stop="20231203200001 +0200" start_timestamp="1701628200" stop_timestamp="1701628200" channel="RTS 2">
+	<programme start="20231203193001 +0100" stop="20231203200001 +0100" start_timestamp="1701628200" stop_timestamp="1701628200" channel="RTS 2">
 		<title>No information</title>
 		<desc></desc>
 	</programme>
-	<programme start="20231203200001 +0200" stop="20231203210001 +0200" start_timestamp="1701630000" stop_timestamp="1701630000" channel="RTS 2">
+	<programme start="20231203200001 +0100" stop="20231203210001 +0100" start_timestamp="1701630000" stop_timestamp="1701630000" channel="RTS 2">
 		<title>No information</title>
 		<desc></desc>
 	</programme>
-	<programme start="20231203210001 +0200" stop="20231203212501 +0200" start_timestamp="1701633600" stop_timestamp="1701633600" channel="RTS 2">
+	<programme start="20231203210001 +0100" stop="20231203212501 +0100" start_timestamp="1701633600" stop_timestamp="1701633600" channel="RTS 2">
 		<title>No information</title>
 		<desc></desc>
 	</programme>
-	<programme start="20231203212501 +0200" stop="20231203222501 +0200" start_timestamp="1701635100" stop_timestamp="1701635100" channel="RTS 2">
+	<programme start="20231203212501 +0100" stop="20231203222501 +0100" start_timestamp="1701635100" stop_timestamp="1701635100" channel="RTS 2">
 		<title>Volim klasiku</title>
 		<desc>U jedanaestoj epizodi serijala </desc>
 	</programme>
@@ -724,59 +724,59 @@
 	<display-name>RTS 3</display-name>
 	<icon src="" />
 </channel>
-	<programme start="20231201133501 +0200" stop="20231201142501 +0200" start_timestamp="1701434100" stop_timestamp="1701434100" channel="RTS 3">
+	<programme start="20231201133501 +0100" stop="20231201142501 +0100" start_timestamp="1701434100" stop_timestamp="1701434100" channel="RTS 3">
 		<title>Autoportret</title>
 		<desc>Osvrtom na karijeru, uloge, priču o upravničkim i producentskim izazovima, publici će se na jedan drugačiji, neformalan način, predstaviti glumac autentične pojave i umetničkog izraza - Svetozar...</desc>
 	</programme>
-	<programme start="20231201142501 +0200" stop="20231201145501 +0200" start_timestamp="1701437100" stop_timestamp="1701437100" channel="RTS 3">
+	<programme start="20231201142501 +0100" stop="20231201145501 +0100" start_timestamp="1701437100" stop_timestamp="1701437100" channel="RTS 3">
 		<title>Ekologika</title>
 		<desc>Emisija koja za cilj ima popularizaciju ekoloških tema i poveća ekološku svest građana kako bismo svi zajedno dali sve od sebe da sačuvamo životnu sredinu.</desc>
 	</programme>
-	<programme start="20231201145501 +0200" stop="20231201152501 +0200" start_timestamp="1701438900" stop_timestamp="1701438900" channel="RTS 3">
+	<programme start="20231201145501 +0100" stop="20231201152501 +0100" start_timestamp="1701438900" stop_timestamp="1701438900" channel="RTS 3">
 		<title>Ekologika</title>
 		<desc>Emisija koja za cilj ima popularizaciju ekoloških tema i poveća ekološku svest građana kako bismo svi zajedno dali sve od sebe da sačuvamo životnu sredinu.</desc>
 	</programme>
-	<programme start="20231201152501 +0200" stop="20231201160101 +0200" start_timestamp="1701440700" stop_timestamp="1701440700" channel="RTS 3">
+	<programme start="20231201152501 +0100" stop="20231201160101 +0100" start_timestamp="1701440700" stop_timestamp="1701440700" channel="RTS 3">
 		<title>Ekologika</title>
 		<desc>Emisija koja za cilj ima popularizaciju ekoloških tema i poveća ekološku svest građana kako bismo svi zajedno dali sve od sebe da sačuvamo životnu sredinu.</desc>
 	</programme>
-	<programme start="20231201160101 +0200" stop="20231201165001 +0200" start_timestamp="1701442860" stop_timestamp="1701442860" channel="RTS 3">
+	<programme start="20231201160101 +0100" stop="20231201165001 +0100" start_timestamp="1701442860" stop_timestamp="1701442860" channel="RTS 3">
 		<title>Kulturni centar</title>
 		<desc>Kami je napisao da ne moramo da čekamo strašni sud, jer se on održava svakog dana. Da li treba da živimo kao da je svaki dan zaista sudnji? Tarkovski je smatrao da je smisao čestih najava apokalipse...</desc>
 	</programme>
-	<programme start="20231201165001 +0200" stop="20231201174001 +0200" start_timestamp="1701445800" stop_timestamp="1701445800" channel="RTS 3">
+	<programme start="20231201165001 +0100" stop="20231201174001 +0100" start_timestamp="1701445800" stop_timestamp="1701445800" channel="RTS 3">
 		<title>Partibrejkersi: Taš je naš</title>
 		<desc>Koncert grupe Partibrejkersi održan je na stadionu Tašmajdan, 18. juna 2016. godine. Na programu je 2. deo koncerta na kome su izvedene mnoge numere po kojima se ovaj bend pamti.</desc>
 	</programme>
-	<programme start="20231201174001 +0200" stop="20231201184001 +0200" start_timestamp="1701448800" stop_timestamp="1701448800" channel="RTS 3">
+	<programme start="20231201174001 +0100" stop="20231201184001 +0100" start_timestamp="1701448800" stop_timestamp="1701448800" channel="RTS 3">
 		<title>Dekster</title>
 		<desc>Dekster pokušava da ubedi Debru da ga podrži na zadatku sa sledećom metom. Dok ukrajinska mafija traži osvetu za ubistvo svog čoveka, Kvin se zbližava s plesačicom u njihovom striptiz klubu. Laguerta,...</desc>
 	</programme>
-	<programme start="20231201184001 +0200" stop="20231201192001 +0200" start_timestamp="1701452400" stop_timestamp="1701452400" channel="RTS 3">
+	<programme start="20231201184001 +0100" stop="20231201192001 +0100" start_timestamp="1701452400" stop_timestamp="1701452400" channel="RTS 3">
 		<title>Radio Mileva</title>
 		<desc>Serija prati tri generacije žena iz porodice Majstorović. One žive pod istim krovom, a Mileva je glava kuće, ona sve zna i u sve se razume i u to nema sumnje.</desc>
 	</programme>
-	<programme start="20231201192001 +0200" stop="20231201193001 +0200" start_timestamp="1701454800" stop_timestamp="1701454800" channel="RTS 3">
+	<programme start="20231201192001 +0100" stop="20231201193001 +0100" start_timestamp="1701454800" stop_timestamp="1701454800" channel="RTS 3">
 		<title>Dokumentarne FusNote</title>
 		<desc>U drugoj priči, ekipa Dokumentarnih FusNota podseća na igračku koje se mnogi od nas ipak sećaju - a to je klik klak.</desc>
 	</programme>
-	<programme start="20231201193001 +0200" stop="20231201200501 +0200" start_timestamp="1701455400" stop_timestamp="1701455400" channel="RTS 3">
+	<programme start="20231201193001 +0100" stop="20231201200501 +0100" start_timestamp="1701455400" stop_timestamp="1701455400" channel="RTS 3">
 		<title>Dnevnik 2 na znakovnom jeziku</title>
 		<desc>Pratite najnovije vesti koje mogu da prate i osobe sa oštećenjem sluha, sledi Dnevnik 2 na srpskom znakovnom jeziku.</desc>
 	</programme>
-	<programme start="20231201200501 +0200" stop="20231201210001 +0200" start_timestamp="1701457500" stop_timestamp="1701457500" channel="RTS 3">
+	<programme start="20231201200501 +0100" stop="20231201210001 +0100" start_timestamp="1701457500" stop_timestamp="1701457500" channel="RTS 3">
 		<title>Žukov</title>
 		<desc>Ruska istorijska serija o sudbini Georgija Konstantinoviča Žukova, sovjetskog vojskovođe, maršala Sovjetskog Saveza i ministra odbrane Sovjetskog Saveza od 1955. do 1957. godine. Počevši od parade za...</desc>
 	</programme>
-	<programme start="20231201210001 +0200" stop="20231201215501 +0200" start_timestamp="1701460800" stop_timestamp="1701460800" channel="RTS 3">
+	<programme start="20231201210001 +0100" stop="20231201215501 +0100" start_timestamp="1701460800" stop_timestamp="1701460800" channel="RTS 3">
 		<title>Lino Ventura: Intimni portret</title>
 		<desc>Ko je bio Lino Ventura? Zašto obznanjuje: </desc>
 	</programme>
-	<programme start="20231201215501 +0200" stop="20231201222501 +0200" start_timestamp="1701464100" stop_timestamp="1701464100" channel="RTS 3">
+	<programme start="20231201215501 +0100" stop="20231201222501 +0100" start_timestamp="1701464100" stop_timestamp="1701464100" channel="RTS 3">
 		<title>Mira Adanja Polak - Ekskluzivno</title>
 		<desc>Jelena Milašinović je osoba koju ne možete da ne primetite.</desc>
 	</programme>
-	<programme start="20231201222501 +0200" stop="20231202000601 +0200" start_timestamp="1701465900" stop_timestamp="1701465900" channel="RTS 3">
+	<programme start="20231201222501 +0100" stop="20231202000601 +0100" start_timestamp="1701465900" stop_timestamp="1701465900" channel="RTS 3">
 		<title>O ljudima</title>
 		<desc>U selu gde svako poznaje svakoga, četiri veterana Alžirskog rata progone događaji iz prošlosti.</desc>
 	</programme>
