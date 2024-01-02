@@ -5,7 +5,6 @@ from itertools import cycle
 from zipfile import ZipFile
 from urllib.request import Request, urlopen
 from urllib.error import URLError, HTTPError
-from itertools import cycle, izip
 
 
 rDownloadURL = {"main": "https://www.dropbox.com/s/evmuke4nci5fxra/main.tar.gz?dl=0", "sub": "https://www.dropbox.com/s/s515bykh6g3kwyq/sub.tar.gz?dl=0"}
