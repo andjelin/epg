@@ -1,10 +1,7 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
-import subprocess, os, random, string, sys, shutil, socket, zipfile, urllib.request, urllib.error, urllib.parse, json, base64
-from itertools import cycle
-from zipfile import ZipFile
-from urllib.request import Request, urlopen
-from urllib.error import URLError, HTTPError
+import subprocess, os, random, string, sys, shutil, socket
+from itertools import cycle, izip
 
 
 
